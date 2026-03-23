@@ -156,7 +156,7 @@ I like:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-sai-sri-harshit-a166a0361/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff9c)](https://github.com/dsaisrih)
 [![Email](https://img.shields.io/badge/Email-FF003C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@srmist.edu.in)
 
