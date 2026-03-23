@@ -2,13 +2,12 @@ name: Generate Snake
 
 on:
   schedule:
-    # Runs every 24 hours at midnight
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Allows you to run it manually anytime
+    - cron: "0 0 * * *" # Runs at midnight every day
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   build:
-    runs-on: ubuntu-latest # Fixed the typo here
+    runs-on: ubuntu-latest
     steps:
       - name: Generate Snake SVG
         uses: Platane/snk@v3
@@ -16,7 +15,8 @@ jobs:
           github_user_name: dsaisrih
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00ff9c&color_dots=#161b22,#00442a,#006d35,#00a64d,#39d353
+        # The line above sets a custom Neon Green snake with a Dark Mode grid
 
       - name: Push Snake SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
