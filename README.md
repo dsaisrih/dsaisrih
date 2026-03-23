@@ -14,14 +14,14 @@
 <table border="0">
   <tr>
     <td width="40%" align="center">
-      <img src="https://api.dicebear.com/7.x/bottts-neutral/svg?seed=Harshit&backgroundColor=000000&eyes=glare&mouth=bite" width="220"/>
-      <br>
-      <img src="https://img.shields.io/badge/SRMIST-STUDENT-00f7ff?style=for-the-badge&logo=srminstituteofscienceandtechnology&logoColor=white" />
+      <img src="https://api.dicebear.com/7.x/bottts/svg?seed=Harshit&backgroundColor=000000&texture=dirty" width="220"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/SRMIST-SECTION_W1-00f7ff?style=for-the-badge&logo=react&logoColor=white" />
     </td>
     <td width="60%">
       <pre align="left" style="background-color:#050505; border: 2px solid #00ff9c; padding: 15px; border-radius: 10px; color:#ffffff; font-family: 'Fira Code', monospace;">
 <b>[IDENT_ID]</b>    : D SAI SRI HARSHIT
-<b>[CLEARANCE]</b>   : ELITE // SECTION W1
+<b>[CLEARANCE]</b>   : ELITE // SRMIST
 <b>[CORE_ENGINE]</b> : AI_VISION & CYBER_SEC
 <b>[CODE_STYLE]</b>  : MINIMALIST_TOKEN_GOLF
 <b>[COMPLEXITY]</b>  : $O(\log n)$ OPTIMIZATION
@@ -39,7 +39,7 @@
 > **System Log:** *The serpent consumes commits to strengthen the firewall.*
 
 <div align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user_name=dsaisrih&outputs=svg&color_snake=%2300ff9c&color_dots=%23111111%2C%23013220%2C%23006400%2C%23228b22%2C%2332cd32" width="100%" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/dsaisrih/dsaisrih/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Cyber Snake Game" />
 </div>
 
 ---
@@ -93,7 +93,6 @@
 | **🖱️ Virtual Mouse** | Computer Vision / Human Interface | `MediaPipe` `Python` |
 | **🛡️ Smart Phishing Detector** | Cyber Security / ML | `FastAPI` `scikit-learn` |
 | **🌌 Orbital Guardian** | Database Architecture | `SQL` `ER Modeling` |
-| **🏨 StaySphere** | Full-Stack Management | `Java` `JDBC` `Swing` |
 
 </div>
 
@@ -112,7 +111,7 @@
 ---
 
 <div align="center">
-<code><b>TRANSMISSION COMPLETE:</b> <span style="color:#00ff9c;">V1.0_READY</span> | <b>LAST_SYNC:</b> 2026</code>
+<code><b>TRANSMISSION COMPLETE:</b> <span style="color:#00ff9c;">V2.0_READY</span> | <b>LAST_SYNC:</b> 2026</code>
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=35&section=footer&text=--+END+OF+FILE+--&fontSize=16&fontColor=ff003c" />
 </div>
