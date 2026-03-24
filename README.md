@@ -40,8 +40,7 @@
 <b>[STRENGTHS]</b>     : Problem Solving | Minimalist Coding | System Thinking
 <b>[CURRENT_MODE]</b>  : <span style="color:#ff003c;">BUILDING SMART & SECURE SYSTEMS...</span>
 
-      </pre>
-    </td>
+  
   </tr>
 </table>
 </div>
