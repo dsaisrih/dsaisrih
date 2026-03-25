@@ -28,19 +28,23 @@
       <br><br>
       <img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20SECURITY%20%2F%20SYSTEMS-ff003c?style=for-the-badge" />
     </td>
-    <td width="62%">
-      <pre align="left" style="background-color:#050505; border: 2px solid #00ff9c; padding: 16px; border-radius: 12px; color:#ffffff; font-family: 'Fira Code', monospace;">
+    <td width="62%" valign="top">
+      <pre style="background-color:#050505; border: 2px solid #00ff9c; padding: 16px; border-radius: 12px; color:#ffffff; font-family: 'Fira Code', monospace; margin:0;">
 
 <b>[IDENT_ID]</b>      : D SAI SRI HARSHIT
 <b>[CLEARANCE]</b>     : ELITE // SRMIST
 <b>[DOMAIN]</b>        : CYBER SECURITY & AI VISION
 <b>[PROGRAMMING]</b>   : PYTHON | C++ | C | JAVA | JS
-<b>[DATABASE]</b>      : MySQL | SQL | ER Modeling
-<b>[TOOLS]</b>         : VS CODE | INTELLIJ IDEA | GIT | LINUX
+<b>[DATABASE]</b>      : MySQL | SQL | ER MODELING
+<b>[TOOLS]</b>         : VS CODE | INTELLIJ IDEA | GIT | LINUX | DOCKER
 <b>[STRENGTHS]</b>     : Problem Solving | Minimalist Coding | System Thinking
-<b>[CURRENT_MODE]</b>  : <span style="color:#ff003c;">BUILDING SMART & SECURE SYSTEMS...</span>
+<b>[CURRENT_MODE]</b>  : BUILDING SMART & SECURE SYSTEMS...
+<b>[ARCHITECTURE]</b>  : CLEAN CODE | SCALABLE DESIGN | PERFORMANCE FIRST
+<b>[SECURITY_FOCUS]</b>: AUTHENTICATION | INPUT VALIDATION | SAFE DESIGN
+<b>[AI_FOCUS]</b>      : COMPUTER VISION | IMAGE PIPELINES | MODEL INFERENCE
 
-  
+      </pre>
+    </td>
   </tr>
 </table>
 </div>
@@ -57,6 +61,25 @@ I like:
 - building computer vision and security-based applications
 - exploring database design and system architecture
 - experimenting with creative tech-themed projects
+- understanding how systems work from data flow to deployment
+
+---
+
+# ⚙️ TECHNICAL FOCUS
+
+## Core Technicalities
+- **Data Structures & Algorithms**: recursion, trees, graphs, hashing, greedy, backtracking
+- **Software Engineering**: modular code, reusable functions, debugging, maintainable design
+- **Database Systems**: normalization, constraints, joins, triggers, cursors, indexing
+- **Computer Vision**: image preprocessing, detection pipelines, landmark tracking, real-time inference
+- **Cyber Security**: secure input handling, threat awareness, phishing detection, access control
+- **System Design Thinking**: workflow mapping, component separation, optimization, scalability
+
+## CS Foundations
+- **Operating Systems**: process, memory, scheduling basics
+- **Computer Networks**: protocols, request/response flow, client-server model
+- **OOP Concepts**: encapsulation, inheritance, polymorphism, abstraction
+- **Problem Solving**: time complexity, space complexity, edge-case analysis
 
 ---
 
@@ -66,6 +89,7 @@ I like:
 - improving **computer vision** and **ML-based** project development
 - exploring **secure application design**
 - building a stronger **project portfolio** for internships and opportunities
+- learning how to combine **AI + Security + Databases** into real projects
 
 ---
 
@@ -77,8 +101,8 @@ I like:
 ## 🧰 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=vscode,idea,linux,kali,git,github,bash,docker,postman&theme=dark" />
 
-## 🔍 Special Interests
-`Computer Vision` • `Cyber Security` • `Database Design` • `Minimalist Coding` • `Big O Optimization` • `ER Modeling` • `AI-powered Systems`
+## 🧠 Core Concepts
+`Data Structures` • `Algorithms` • `OOP` • `DBMS` • `SQL` • `ER Modeling` • `OS Basics` • `Networking` • `Computer Vision` • `Cyber Security` • `Optimization`
 
 ---
 
@@ -103,6 +127,7 @@ I like:
 - Passionate about **AI + real-world applications**
 - Enjoys **hackable, elegant, and efficient** designs
 - Focused on building projects that are **useful, scalable, and visually polished**
+- Interested in writing code with **good time complexity and clean architecture**
 
 ---
 
@@ -141,13 +166,15 @@ I like:
 ## Achievements
 - built projects in **AI, cyber security, and database systems**
 - explored multiple languages and development tools
-- developed a strong foundation in **logic and optimization**
+- developed a strong foundation in **logic, optimization, and architecture**
+- learned to connect **theory with practical implementation**
 
 ## Goals
 - contribute to open-source projects
 - participate in more hackathons and technical events
 - publish more advanced AI/security projects
 - improve consistency in coding and learning
+- deepen understanding of **system design and secure software engineering**
 
 ---
 
@@ -163,18 +190,19 @@ I like:
 
 ---
 
-# ⚙️ QUICK FACTS
+# ⚡ QUICK FACTS
 
 - **University:** SRMIST
 - **Core Areas:** Cyber Security, AI Vision, Software Development
-- **Coding Style:** Minimalist and optimized
+- **Coding Style:** Minimalist, optimized, and structured
 - **Preferred Theme:** Dark, neon, futuristic
+- **Technical Preference:** Clean architecture, readable logic, strong fundamentals
 
 ---
 
 <div align="center">
 
-<code><b>TRANSMISSION COMPLETE:</b> <span style="color:#00ff9c;">V3.0_ENHANCED</span> | <b>STATUS:</b> <span style="color:#ff003c;">ACTIVE</span></code>
+<code><b>TRANSMISSION COMPLETE:</b> <span style="color:#00ff9c;">V3.1_ENHANCED</span> | <b>STATUS:</b> <span style="color:#ff003c;">ACTIVE</span></code>
 
 <br/><br/>
 
