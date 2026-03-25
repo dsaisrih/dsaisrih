@@ -42,6 +42,7 @@
 <b>[ARCHITECTURE]</b>  : CLEAN CODE | SCALABLE DESIGN | PERFORMANCE FIRST
 <b>[SECURITY_FOCUS]</b>: AUTHENTICATION | INPUT VALIDATION | SAFE DESIGN
 <b>[AI_FOCUS]</b>      : COMPUTER VISION | IMAGE PIPELINES | MODEL INFERENCE
+<b>[AI_TOOLS]</b>      : COPILOT | CHATGPT | GEMINI
 
       </pre>
     </td>
@@ -56,13 +57,6 @@
 I am a technology enthusiast focused on **Cyber Security, AI Vision, and Software Development**.  
 I enjoy building practical systems, solving logic-heavy problems, and designing projects that are both efficient and secure.
 
-I like:
-- writing clean and optimized code
-- building computer vision and security-based applications
-- exploring database design and system architecture
-- experimenting with creative tech-themed projects
-- understanding how systems work from data flow to deployment
-
 ---
 
 # ⚙️ TECHNICAL FOCUS
@@ -75,40 +69,14 @@ I like:
 - **Cyber Security**: secure input handling, threat awareness, phishing detection, access control
 - **System Design Thinking**: workflow mapping, component separation, optimization, scalability
 
-## CS Foundations
-- **Operating Systems**: process, memory, scheduling basics
-- **Computer Networks**: protocols, request/response flow, client-server model
-- **OOP Concepts**: encapsulation, inheritance, polymorphism, abstraction
-- **Problem Solving**: time complexity, space complexity, edge-case analysis
-
----
-
-# 🚀 CURRENTLY WORKING ON
-
-- strengthening my core skills in **DSA and problem solving**
-- improving **computer vision** and **ML-based** project development
-- exploring **secure application design**
-- building a stronger **project portfolio** for internships and opportunities
-- learning how to combine **AI + Security + Databases** into real projects
-
----
-
-# 🛠️ TECH ARMORY
-
-## 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,mysql&theme=dark" />
-
-## 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,idea,linux,kali,git,github,bash,docker,postman&theme=dark" />
-
-## 🧠 Core Concepts
-`Data Structures` • `Algorithms` • `OOP` • `DBMS` • `SQL` • `ER Modeling` • `OS Basics` • `Networking` • `Computer Vision` • `Cyber Security` • `Optimization`
+## AI Tools in Use
+- **Copilot (Microsoft)** → productivity, modular coding, secure design suggestions  
+- **ChatGPT (OpenAI)** → brainstorming, explanations, project documentation  
+- **Gemini (Google DeepMind)** → advanced reasoning, multi-modal AI, futuristic vision  
 
 ---
 
 # 📂 FEATURED PROJECTS
-
-<div align="center">
 
 | PROJECT | CATEGORY | TECH STACK | HIGHLIGHT |
 | :--- | :--- | :--- | :--- |
@@ -116,48 +84,6 @@ I like:
 | **🖱️ Virtual Mouse** | Human-Computer Interaction | `MediaPipe` `Python` | Gesture-based control using hand tracking |
 | **🛡️ Smart Phishing Detector** | Cyber Security / ML | `FastAPI` `scikit-learn` | Detects suspicious URLs and patterns |
 | **🌌 Orbital Guardian** | Database Architecture | `SQL` `ER Modeling` | Structured data management and schema design |
-
-</div>
-
----
-
-# 🎯 HIGHLIGHTS
-
-- Strong interest in **secure system development**
-- Passionate about **AI + real-world applications**
-- Enjoys **hackable, elegant, and efficient** designs
-- Focused on building projects that are **useful, scalable, and visually polished**
-- Interested in writing code with **good time complexity and clean architecture**
-
----
-
-# 📊 ACTIVITY METRICS
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dsaisrih&bg_color=000000&color=00ff9c&line=00f7ff&point=ff003c&area=true&hide_border=true&border_radius=10" width="100%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=dsaisrih&theme=tokyonight&hide_border=true&ring=00ff9c&fire=ff003c&currStreakLabel=00f7ff" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=dsaisrih&show_icons=true&theme=blood&hide_border=true&title_color=00ff9c&icon_color=ff003c&text_color=ffffff&count_private=true&include_all_commits=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsaisrih&layout=compact&theme=blood&hide_border=true&title_color=00ff9c&text_color=ffffff" />
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SERPENT
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dsaisrih/dsaisrih/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-</div>
 
 ---
 
@@ -178,34 +104,8 @@ I like:
 
 ---
 
-# 📡 SECURE UPLINK
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-sai-sri-harshit-a166a0361/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff9c)](https://github.com/dsaisrih)
-[![Email](https://img.shields.io/badge/Email-FF003C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@srmist.edu.in)
-
-</div>
-
----
-
-# ⚡ QUICK FACTS
-
-- **University:** SRMIST
-- **Core Areas:** Cyber Security, AI Vision, Software Development
-- **Coding Style:** Minimalist, optimized, and structured
-- **Preferred Theme:** Dark, neon, futuristic
-- **Technical Preference:** Clean architecture, readable logic, strong fundamentals
-
----
-
-<div align="center">
-
-<code><b>TRANSMISSION COMPLETE:</b> <span style="color:#00ff9c;">V3.1_ENHANCED</span> | <b>STATUS:</b> <span style="color:#ff003c;">ACTIVE</span></code>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=footer&text=--+END+OF+FILE+--&fontSize=18&fontColor=ff003c" />
+<code><b>TRANSMISSION COMPLETE:</b> <span style="color:#00ff9c;">V3.2_TECHNICAL_AI</span> | <b>STATUS:</b> <span style="color:#ff003c;">ACTIVE</span></code>
 
 </div>
