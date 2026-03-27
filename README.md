@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/CYBER%20SECURITY-ENABLED-ff003c?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20VISION-ACTIVE-00ff9c?style=for-the-badge&logo=opencv&logoColor=black" />
 <img src="https://img.shields.io/badge/AI%20TOOLS-Copilot%20%7C%20ChatGPT%20%7C%20Gemini-0077ff?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/LAPTOP-HP%20Victus%20RTX%204060-ff9900?style=for-the-badge&logo=hp&logoColor=white" />
 
 </div>
 
@@ -97,6 +98,36 @@ I enjoy building practical systems, solving logic-heavy problems, and designing 
 
 ---
 
+# 📊 ACTIVITY METRICS
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dsaisrih&bg_color=000000&color=00ff9c&line=00f7ff&point=ff003c&area=true&hide_border=true&border_radius=10" width="100%"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=dsaisrih&theme=tokyonight&hide_border=true&ring=00ff9c&fire=ff003c&currStreakLabel=00f7ff" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=dsaisrih&show_icons=true&theme=blood&hide_border=true&title_color=00ff9c&icon_color=ff003c&text_color=ffffff&count_private=true&include_all_commits=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsaisrih&layout=compact&theme=blood&hide_border=true&title_color=00ff9c&text_color=ffffff" />
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SERPENT
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dsaisrih/dsaisrih/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</div>
+
+---
+
 # ⚡ QUICK FACTS
 
 - **University:** SRMIST  
@@ -110,8 +141,6 @@ I enjoy building practical systems, solving logic-heavy problems, and designing 
 
 <div align="center">
 
-<code><b>TRANSMISSION COMPLETE:</b> <span style="color:#00ff9c;">V3.2_TECHNICAL</span> | <b>STATUS:</b> <span style="color:#ff003c;">ACTIVE</span></code>
+<code><b>TRANSMISSION COMPLETE:</b> <span style="color:#00ff9c;">V3.3_FULL_TECH</span> | <b>STATUS:</b> <span style="color:#ff003c;">ACTIVE</span></code>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=footer&text=--+END+OF+FILE+--&fontSize=18&fontColor=ff003c" />
-
-</div>
+<img src="https://capsule-render
