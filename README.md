@@ -55,14 +55,6 @@
 
 ---
 
-# 👨‍💻 ABOUT ME
-
-I am a **systems architect-in-training** with a focus on **Cyber Security, AI Vision, and Software Development**.  
-I integrate **AI assistants (Copilot, ChatGPT, Gemini)** into my workflow for **code generation, debugging, architectural reasoning, and productivity acceleration**.  
-My philosophy: **secure, optimized, and scalable systems** that bridge **theory with real-world implementation**.
-
----
-
 # ⚙️ TECHNICAL FOCUS
 
 ## 🔐 Cyber Security Layers
@@ -94,19 +86,6 @@ My philosophy: **secure, optimized, and scalable systems** that bridge **theory 
 - **Storage:** 512GB SSD for fast I/O pipelines  
 - **OS:** Windows 11 tuned for dev environments  
 - **IDE Optimization:** VS Code + IntelliJ IDEA with AI plugins  
-
----
-
-# 🛠️ TECH ARMORY
-
-## 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,mysql&theme=dark" />
-
-## 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,idea,linux,kali,git,github,bash,docker,postman&theme=dark" />
-
-## 🤖 AI Assistants
-`Copilot` • `ChatGPT` • `Gemini`
 
 ---
 
@@ -147,3 +126,23 @@ My philosophy: **secure, optimized, and scalable systems** that bridge **theory 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/dsaisrih/dsaisrih/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</div>
+
+---
+
+# ⚡ QUICK FACTS
+
+- **University:** SRMIST  
+- **Core Areas:** Cyber Security, AI Vision, Software Development  
+- **AI Tools Used:** Copilot, ChatGPT, Gemini  
+- **Laptop Specs:** HP Victus, RTX 4060, 16GB RAM, 512GB SSD  
+- **Coding Style:** Minimalist, optimized, and structured  
+- **Preferred Theme:** Dark, neon, futuristic  
+
+---
+
+<div align="center">
+
+<code><b>TRANSMISSION COMPLETE:</b> <span style="color:#00ff9c;">V4.0_NEON_TECH</span> | <b>STATUS:</b> <span style="color:#ff003c;">ACTIVE</span></code>
+
+<img src="https://capsule-render.vercel.app
