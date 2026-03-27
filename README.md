@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=1000&lines=🔓+SYSTEM+BYPASS+AUTHORIZED;🤖+AI+VISION+CORE+ACTIVE;🛰️+CYBER+DEFENSE+ONLINE;⚡+BUILD.+LEARN.+SECURE.+INNOVATE." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=1000&lines=🔓+ACCESS+GRANTED;🤖+AI+VISION+CORE+ACTIVE;🛰️+CYBER+DEFENSE+ONLINE;⚡+BUILD.+LEARN.+SECURE.+INNOVATE." />
 
 <br/>
 
@@ -18,46 +18,16 @@
 
 ---
 
-# 🧠 THE NEURAL INTERFACE
-
-<div align="center">
-<table border="0">
-  <tr>
-    <td width="38%" align="center">
-      <img src="https://api.dicebear.com/7.x/bottts/svg?seed=Harshit&backgroundColor=000000&texture=dirty" width="220"/>
-      <br><br>
-      <img src="https://img.shields.io/badge/PROFILE-ONLINE-00f7ff?style=for-the-badge" />
-      <br><br>
-      <img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20SECURITY%20%2F%20SYSTEMS-ff003c?style=for-the-badge" />
-    </td>
-    <td width="62%" valign="top">
-      <pre style="background-color:#050505; border: 2px solid #00ff9c; padding: 16px; border-radius: 12px; color:#ffffff; font-family: 'Fira Code', monospace; margin:0;">
-
-<b>[IDENT_ID]</b>      : D SAI SRI HARSHIT
-<b>[CLEARANCE]</b>     : ELITE // SRMIST
-<b>[DOMAIN]</b>        : CYBER SECURITY & AI VISION
-<b>[PROGRAMMING]</b>   : PYTHON | C++ | C | JAVA | JS
-<b>[DATABASE]</b>      : MySQL | SQL | ER MODELING
-<b>[TOOLS]</b>         : VS CODE | INTELLIJ IDEA | GIT | LINUX | DOCKER
-<b>[AI_ASSISTANTS]</b> : Copilot | ChatGPT | Gemini
-<b>[STRENGTHS]</b>     : Problem Solving | Minimalist Coding | System Thinking
-<b>[CURRENT_MODE]</b>  : BUILDING SMART & SECURE SYSTEMS...
-<b>[ARCHITECTURE]</b>  : CLEAN CODE | SCALABLE DESIGN | PERFORMANCE FIRST
-<b>[SECURITY_FOCUS]</b>: AUTHENTICATION | INPUT VALIDATION | SAFE DESIGN
-<b>[AI_FOCUS]</b>      : COMPUTER VISION | IMAGE PIPELINES | MODEL INFERENCE
-<b>[LAPTOP_SPECS]</b>  : HP Victus | RTX 4060 | 16GB RAM | 512GB SSD | WIN 11
-
-      </pre>
-    </td>
-  </tr>
-</table>
-</div>
+# 👨‍💻 ABOUT ME
+I am a **technology enthusiast and systems architect-in-training** specializing in **Cyber Security, AI Vision, and Software Development**.  
+I leverage **AI assistants (Copilot, ChatGPT, Gemini)** to accelerate **problem solving, debugging, and architectural reasoning**.  
+My mission: **design secure, optimized, and scalable systems** that connect **academic theory with real-world implementation**.
 
 ---
 
 # ⚙️ TECHNICAL FOCUS
 
-## 🔐 Cyber Security Layers
+## 🔐 Cyber Security
 - Zero-trust authentication models  
 - Input validation & sanitization  
 - Threat modeling & phishing detection  
@@ -65,7 +35,7 @@
 - Encryption-aware design (AES, RSA, SHA-256)  
 - Role-based access control (RBAC)  
 
-## 🖼️ AI Vision Pipelines
+## 🖼️ AI Vision
 - Image preprocessing (filters, normalization, augmentation)  
 - Detection pipelines (face, gesture, object tracking)  
 - Landmark tracking & feature extraction  
@@ -75,17 +45,29 @@
 ## 🛠️ System Architecture
 - Modular design & reusable components  
 - Workflow mapping & component separation  
-- Scalability & performance-first coding  
 - Clean architecture principles (SOLID, DRY, KISS)  
 - Dockerized deployment & CI/CD integration  
 - Microservices & API gateway design  
 
 ## ⚡ Hardware Utilization
-- **GPU:** RTX 4060 leveraged for ML/CV acceleration  
+- **GPU:** RTX 4060 for ML/CV acceleration  
 - **RAM:** 16GB optimized for parallel workloads  
 - **Storage:** 512GB SSD for fast I/O pipelines  
 - **OS:** Windows 11 tuned for dev environments  
 - **IDE Optimization:** VS Code + IntelliJ IDEA with AI plugins  
+
+---
+
+# 🛠️ TECH ARMORY
+
+## 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,mysql&theme=dark" />
+
+## 🧰 Tools
+<img src="https://skillicons.dev/icons?i=vscode,idea,linux,kali,git,github,bash,docker,postman&theme=dark" />
+
+## 🤖 AI Assistants
+`Copilot` • `ChatGPT` • `Gemini`
 
 ---
 
@@ -125,13 +107,12 @@
 # 🐍 CONTRIBUTION SERPENT
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dsaisrih/dsaisrih/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/dsaisrih/dsaisrih/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </div>
 
 ---
 
 # ⚡ QUICK FACTS
-
 - **University:** SRMIST  
 - **Core Areas:** Cyber Security, AI Vision, Software Development  
 - **AI Tools Used:** Copilot, ChatGPT, Gemini  
@@ -145,4 +126,6 @@
 
 <code><b>TRANSMISSION COMPLETE:</b> <span style="color:#00ff9c;">V4.0_NEON_TECH</span> | <b>STATUS:</b> <span style="color:#ff003c;">ACTIVE</span></code>
 
-<img src="https://capsule-render.vercel.app
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=footer&text=--+END+OF+FILE+--&fontSize=18&fontColor=ff003c" />
+
+</div>
