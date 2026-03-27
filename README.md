@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f172a,100:001f3f&height=300&section=header&text=D%20SAI%20SRI%20HARSHIT&fontSize=60&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=CYBER+SECURITY+%7C+AI+VISION+%7C+TECH+ARCHITECT&descAlignY=60&descSize=22&descColor=00f7ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f172a,100:001f3f&height=300&section=header&text=D%20SAI%20SRI%20HARSHIT&fontSize=60&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=CYBER+SECURITY+%7C+AI+VISION+%7C+SYSTEM+ARCHITECT&descAlignY=60&descSize=22&descColor=00f7ff" />
 
 <br/>
 
@@ -45,7 +45,7 @@
 <b>[ARCHITECTURE]</b>  : CLEAN CODE | SCALABLE DESIGN | PERFORMANCE FIRST
 <b>[SECURITY_FOCUS]</b>: AUTHENTICATION | INPUT VALIDATION | SAFE DESIGN
 <b>[AI_FOCUS]</b>      : COMPUTER VISION | IMAGE PIPELINES | MODEL INFERENCE
-<b>[LAPTOP_SPECS]</b>  : HP Victus | RTX 4060 | 16GB RAM | 512GB SSD
+<b>[LAPTOP_SPECS]</b>  : HP Victus | RTX 4060 | 16GB RAM | 512GB SSD | WIN 11
 
       </pre>
     </td>
@@ -57,20 +57,39 @@
 
 # 👨‍💻 ABOUT ME
 
-I am a technology enthusiast focused on **Cyber Security, AI Vision, and Software Development**.  
-I leverage **AI assistants like Copilot, ChatGPT, and Gemini** to brainstorm, debug, and accelerate learning.  
-I enjoy building practical systems, solving logic-heavy problems, and designing projects that are both efficient and secure.
+I am a **systems architect-in-training** with a focus on **Cyber Security, AI Vision, and Software Development**.  
+I integrate **AI assistants (Copilot, ChatGPT, Gemini)** into my workflow for **code generation, debugging, architectural reasoning, and productivity acceleration**.  
+My philosophy: **secure, optimized, and scalable systems** that bridge **theory with real-world implementation**.
 
 ---
 
 # ⚙️ TECHNICAL FOCUS
 
-- **Data Structures & Algorithms**: recursion, trees, graphs, hashing, greedy, backtracking  
-- **Software Engineering**: modular code, reusable functions, debugging, maintainable design  
-- **Database Systems**: normalization, constraints, joins, triggers, cursors, indexing  
-- **Computer Vision**: image preprocessing, detection pipelines, landmark tracking, real-time inference  
-- **Cyber Security**: secure input handling, threat awareness, phishing detection, access control  
-- **System Design Thinking**: workflow mapping, component separation, optimization, scalability  
+## 🔐 Cyber Security Layers
+- Input validation & sanitization  
+- Authentication & access control  
+- Threat modeling & phishing detection  
+- Secure database triggers & constraints  
+- Encryption-aware design  
+
+## 🖼️ AI Vision Pipelines
+- Image preprocessing (filters, normalization, augmentation)  
+- Detection pipelines (face, gesture, object tracking)  
+- Landmark tracking & feature extraction  
+- Real-time inference optimization with GPU acceleration  
+
+## 🛠️ System Architecture
+- Modular design & reusable components  
+- Workflow mapping & component separation  
+- Scalability & performance-first coding  
+- Clean architecture principles (SOLID, DRY, KISS)  
+- Dockerized deployment & CI/CD integration  
+
+## ⚡ Hardware Utilization
+- **GPU:** RTX 4060 leveraged for ML/CV acceleration  
+- **RAM:** 16GB optimized for parallel workloads  
+- **Storage:** 512GB SSD for fast I/O pipelines  
+- **OS:** Windows 11 tuned for dev environments  
 
 ---
 
@@ -94,7 +113,7 @@ I enjoy building practical systems, solving logic-heavy problems, and designing 
 | **👁️ Face Recognition** | AI Biometric Security | `OpenCV` `Python` | Real-time face detection and recognition |
 | **🖱️ Virtual Mouse** | Human-Computer Interaction | `MediaPipe` `Python` | Gesture-based control using hand tracking |
 | **🛡️ Smart Phishing Detector** | Cyber Security / ML | `FastAPI` `scikit-learn` | Detects suspicious URLs and patterns |
-| **🌌 Orbital Guardian** | Database Architecture | `SQL` `ER Modeling` | Structured data management and schema design |
+| **🌌 Orbital Guardian** | Database Architecture | `SQL` `ER Modeling` | Structured schema with scientific triggers |
 
 ---
 
@@ -131,16 +150,4 @@ I enjoy building practical systems, solving logic-heavy problems, and designing 
 # ⚡ QUICK FACTS
 
 - **University:** SRMIST  
-- **Core Areas:** Cyber Security, AI Vision, Software Development  
-- **AI Tools Used:** Copilot, ChatGPT, Gemini  
-- **Laptop Specs:** HP Victus, RTX 4060, 16GB RAM, 512GB SSD  
-- **Coding Style:** Minimalist, optimized, and structured  
-- **Preferred Theme:** Dark, neon, futuristic  
-
----
-
-<div align="center">
-
-<code><b>TRANSMISSION COMPLETE:</b> <span style="color:#00ff9c;">V3.3_FULL_TECH</span> | <b>STATUS:</b> <span style="color:#ff003c;">ACTIVE</span></code>
-
-<img src="https://capsule-render
+- **Core Areas:** Cyber
