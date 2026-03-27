@@ -66,17 +66,19 @@ My philosophy: **secure, optimized, and scalable systems** that bridge **theory 
 # ⚙️ TECHNICAL FOCUS
 
 ## 🔐 Cyber Security Layers
+- Zero-trust authentication models  
 - Input validation & sanitization  
-- Authentication & access control  
 - Threat modeling & phishing detection  
 - Secure database triggers & constraints  
-- Encryption-aware design  
+- Encryption-aware design (AES, RSA, SHA-256)  
+- Role-based access control (RBAC)  
 
 ## 🖼️ AI Vision Pipelines
 - Image preprocessing (filters, normalization, augmentation)  
 - Detection pipelines (face, gesture, object tracking)  
 - Landmark tracking & feature extraction  
 - Real-time inference optimization with GPU acceleration  
+- Model deployment with TensorRT & ONNX  
 
 ## 🛠️ System Architecture
 - Modular design & reusable components  
@@ -84,12 +86,14 @@ My philosophy: **secure, optimized, and scalable systems** that bridge **theory 
 - Scalability & performance-first coding  
 - Clean architecture principles (SOLID, DRY, KISS)  
 - Dockerized deployment & CI/CD integration  
+- Microservices & API gateway design  
 
 ## ⚡ Hardware Utilization
 - **GPU:** RTX 4060 leveraged for ML/CV acceleration  
 - **RAM:** 16GB optimized for parallel workloads  
 - **Storage:** 512GB SSD for fast I/O pipelines  
 - **OS:** Windows 11 tuned for dev environments  
+- **IDE Optimization:** VS Code + IntelliJ IDEA with AI plugins  
 
 ---
 
@@ -143,11 +147,3 @@ My philosophy: **secure, optimized, and scalable systems** that bridge **theory 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/dsaisrih/dsaisrih/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-</div>
-
----
-
-# ⚡ QUICK FACTS
-
-- **University:** SRMIST  
-- **Core Areas:** Cyber
