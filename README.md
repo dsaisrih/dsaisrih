@@ -1,133 +1,271 @@
-# ⚡ V5 FUTURISTIC README
+<!-- HEADER -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=320&section=header&text=D%20SAI%20SRI%20HARSHIT&fontSize=60&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=CYBER%20SECURITY%20•%20AI%20VISION%20•%20SYSTEM%20ARCHITECT&descAlignY=60&descSize=22)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,40:8b0000,70:ff0000,100:ff4d4d&height=300&section=header&text=D%20SAI%20SRI%20HARSHIT&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Engineer%20•%20AI%20Developer%20•%20Systems%20Architect&descAlignY=60&descSize=22"/>
+</p>
 
-![Profile
-Views](https://komarev.com/ghpvc/?username=dsaisrih&color=00f7ff&style=for-the-badge)
+---
 
-------------------------------------------------------------------------
+# 👨‍💻 About Me
 
-![Typing
-SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=1000&lines=ACCESS+GRANTED;AI+CORE+INITIALIZING;CYBER+DEFENSE+ONLINE;BUILD+•+SECURE+•+INNOVATE)
-
-------------------------------------------------------------------------
-
-# 👨‍💻 SYSTEM PROFILE
-
-``` yaml
+```yaml
 Name: D Sai Sri Harshit
-Role: Cyber Security & AI Engineer
-University: SRMIST
-Focus:
-  - Cyber Security
-  - AI Vision
-  - Software Engineering
+Role: Cyber Security Engineer | AI Developer
+University: SRM Institute of Science and Technology
+
+Domains:
+  - Cyber Security Engineering
+  - Artificial Intelligence
+  - Computer Vision Systems
+  - Distributed System Design
+
+Technical Interests:
+  - Secure System Architecture
+  - AI Assisted Security Detection
+  - Computer Vision Applications
+  - High Performance Software Systems
+
 Mission:
-  Build secure and intelligent systems that bridge
-  academic theory with real-world implementation.
+  Engineer secure, intelligent and scalable
+  systems that integrate AI with real-world
+  infrastructure and cyber defense.
 ```
 
-------------------------------------------------------------------------
+---
 
-# 🧠 TECH STACK
+# 🧠 Engineering Focus
 
-## 💻 Languages
+### 🔐 Cyber Security
 
-![Languages](https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,mysql&theme=dark)
+```
+• Network Security
+• Vulnerability Assessment
+• Penetration Testing
+• Secure Coding Practices
+• Threat Modeling
+• Web Security
+```
 
-## ⚙️ Tools
+Tools & Technologies
 
-![Tools](https://skillicons.dev/icons?i=vscode,idea,linux,kali,git,github,bash,docker,postman&theme=dark)
+```
+Kali Linux
+Nmap
+Wireshark
+Burp Suite
+Metasploit
+OWASP Testing Framework
+```
 
-## 🤖 AI Assistants
+---
 
-`Copilot` • `ChatGPT` • `Gemini`
+### 🤖 Artificial Intelligence
 
-------------------------------------------------------------------------
+Focus Areas
 
-# 🤖 AI NETWORK
+```
+Computer Vision
+Machine Learning
+Real-Time Detection Systems
+AI Driven Security Analytics
+```
 
-           🧠 AI CORE
-             │
-      ┌──────┼──────┐
-      │      │      │
-    Cyber  Vision  Systems
-    Security  AI   Architecture
-      │      │      │
-    Threat  Image  Modular
-    Model   Detect  Design
+Libraries & Frameworks
 
-------------------------------------------------------------------------
+```
+TensorFlow
+PyTorch
+OpenCV
+MediaPipe
+Scikit-Learn
+NumPy
+Pandas
+```
 
-# 🚀 FEATURED PROJECTS
+---
 
-  -----------------------------------------------------------------------
-  Project           Field             Tech              Description
-  ----------------- ----------------- ----------------- -----------------
-  👁️ Face           AI Vision         Python, OpenCV    Real-time
-  Recognition                                           biometric
-                                                        detection
+### ⚙️ System Design
 
-  🖱️ Virtual Mouse  Computer Vision   MediaPipe         Hand gesture
-                                                        control
+```
+Distributed Systems
+REST API Architecture
+Database Optimization
+High Performance Computing
+Secure Backend Infrastructure
+```
 
-  🛡️ Phishing       Cyber Security    FastAPI, ML       Detects malicious
-  Detector                                              URLs
+Architecture Concepts
 
-  🌌 Orbital        Database          SQL               Space system
-  Guardian                                              architecture
-  -----------------------------------------------------------------------
+```
+Microservices
+Client-Server Architecture
+MVC Pattern
+RESTful APIs
+Event Driven Systems
+```
 
-------------------------------------------------------------------------
+---
 
-# 📊 GITHUB ANALYTICS
+# ⚙️ Tech Stack
 
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=dsaisrih&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff)
+### 💻 Programming Languages
 
-![GitHub
-Streak](https://github-readme-streak-stats.herokuapp.com/?user=dsaisrih&theme=tokyonight&hide_border=true)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,mysql&theme=dark"/>
+</p>
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsaisrih&layout=compact&theme=tokyonight&hide_border=true)
+### 🧠 AI / ML Stack
 
-------------------------------------------------------------------------
+```
+Python
+TensorFlow
+PyTorch
+OpenCV
+MediaPipe
+NumPy
+Pandas
+Matplotlib
+```
 
-# 📈 CONTRIBUTION GRAPH
+### 🛠 Development Tools
 
-![Activity
-Graph](https://github-readme-activity-graph.vercel.app/graph?username=dsaisrih&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,linux,kali,git,github,docker,bash,postman&theme=dark"/>
+</p>
 
-------------------------------------------------------------------------
+Development Environment
 
-# 🐍 CONTRIBUTION SNAKE
+```
+Linux / Windows Hybrid Workflow
+Docker Containerization
+Git Version Control
+REST API Testing via Postman
+```
 
-![Snake](https://raw.githubusercontent.com/dsaisrih/dsaisrih/output/github-contribution-grid-snake-dark.svg)
+---
 
-------------------------------------------------------------------------
+# 🚀 Technical Projects
 
-# ⚡ SYSTEM SPECS
+| Project | Technologies | Architecture | Description |
+|------|------|------|-------------|
+| 👁 Face Recognition System | Python, OpenCV | Computer Vision Pipeline | Real-time biometric authentication system |
+| 🖱 AI Virtual Mouse | MediaPipe, Python | Gesture Recognition | Hand tracking based cursor control |
+| 🛡 Phishing Detection System | ML, FastAPI | AI Security Model | Detects malicious URLs using machine learning |
+| 🌌 Orbital Guardian DB | SQL | Relational DB Design | Space mission management database |
 
-    Device: HP Victus
-    GPU: RTX 4060
-    RAM: 16GB
-    Storage: 512GB SSD
-    OS: Windows 11
-    IDE: VS Code + IntelliJ
+---
 
-------------------------------------------------------------------------
+# 📊 Development Activity
 
-# 🛰️ CONNECT
+### 🔥 GitHub Streak
 
-![GitHub](https://img.shields.io/badge/GitHub-dsaisrih-000?style=for-the-badge&logo=github)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=dsaisrih&theme=tokyonight&hide_border=true&ring=ff0000&fire=ff4d4d"/>
+</p>
 
-------------------------------------------------------------------------
+---
 
-    STATUS: ACTIVE
-    VERSION: V5_AI_SYSTEM_PROFILE
-    MISSION: BUILD • LEARN • SECURE
+### 📈 Contribution Graph
 
-![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=40&section=footer)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dsaisrih&bg_color=0d1117&color=ff4d4d&line=ff0000&point=ffffff&area=true&hide_border=true"/>
+</p>
 
-------------------------------------------------------------------------
+---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/dsaisrih/dsaisrih/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 💻 Development System
+
+```
+Device:
+HP Victus Gaming Laptop
+
+CPU
+AMD Ryzen 9 Processor
+Multi-Core High Performance Compute
+
+GPU
+NVIDIA RTX 4060
+CUDA Enabled Parallel Processing
+
+Memory
+16GB DDR5 RAM
+
+Storage
+512GB NVMe SSD
+High Speed Data Access
+```
+
+Development Stack
+
+```
+IDE
+VS Code
+IntelliJ IDEA
+
+Operating Systems
+Windows 11
+Kali Linux
+Linux Subsystem
+
+Core Tools
+Docker
+Git
+Bash
+Postman
+```
+
+---
+
+# 🛰️ Engineering Workflow
+
+```
+1. System Design
+2. Architecture Planning
+3. Algorithm Development
+4. Implementation
+5. Security Testing
+6. Performance Optimization
+7. Deployment
+```
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://github.com/dsaisrih">
+<img src="https://img.shields.io/badge/GitHub-dsaisrih-ff0000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-ff0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-ff0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/YOUR_HANDLE">
+<img src="https://img.shields.io/badge/Twitter-Updates-ff0000?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://YOUR-PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-Website-ff0000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,100:ff0000&height=120&section=footer"/>
+</p>
