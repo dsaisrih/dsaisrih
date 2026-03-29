@@ -1,131 +1,143 @@
-<div align="center">
+# ⚡ V5 FUTURISTIC README
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f172a,100:001f3f&height=300&section=header&text=D%20SAI%20SRI%20HARSHIT&fontSize=60&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=CYBER+SECURITY+%7C+AI+VISION+%7C+SYSTEM+ARCHITECT&descAlignY=60&descSize=22&descColor=00f7ff" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=320&section=header&text=D%20SAI%20SRI%20HARSHIT&fontSize=60&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=CYBER%20SECURITY%20•%20AI%20VISION%20•%20SYSTEM%20ARCHITECT&descAlignY=60&descSize=22)
 
-<br/>
+![Profile
+Views](https://komarev.com/ghpvc/?username=dsaisrih&color=00f7ff&style=for-the-badge)
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=1000&lines=🔓+ACCESS+GRANTED;🤖+AI+VISION+CORE+ACTIVE;🛰️+CYBER+DEFENSE+ONLINE;⚡+BUILD.+LEARN.+SECURE.+INNOVATE." />
+------------------------------------------------------------------------
 
-<br/>
+![Typing
+SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=1000&lines=ACCESS+GRANTED;AI+CORE+INITIALIZING;CYBER+DEFENSE+ONLINE;BUILD+•+SECURE+•+INNOVATE)
 
-<img src="https://img.shields.io/badge/SRMIST-SECTION_W1-00f7ff?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/CYBER%20SECURITY-ENABLED-ff003c?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20VISION-ACTIVE-00ff9c?style=for-the-badge&logo=opencv&logoColor=black" />
-<img src="https://img.shields.io/badge/AI%20TOOLS-Copilot%20%7C%20ChatGPT%20%7C%20Gemini-0077ff?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/LAPTOP-HP%20Victus%20RTX%204060-ff9900?style=for-the-badge&logo=hp&logoColor=white" />
+------------------------------------------------------------------------
 
-</div>
+# 👨‍💻 SYSTEM PROFILE
 
----
+``` yaml
+Name: D Sai Sri Harshit
+Role: Cyber Security & AI Engineer
+University: SRMIST
+Focus:
+  - Cyber Security
+  - AI Vision
+  - Software Engineering
+Mission:
+  Build secure and intelligent systems that bridge
+  academic theory with real-world implementation.
+```
 
-# 👨‍💻 ABOUT ME
-I am a **technology enthusiast and systems architect-in-training** specializing in **Cyber Security, AI Vision, and Software Development**.  
-I leverage **AI assistants (Copilot, ChatGPT, Gemini)** to accelerate **problem solving, debugging, and architectural reasoning**.  
-My mission: **design secure, optimized, and scalable systems** that connect **academic theory with real-world implementation**.
+------------------------------------------------------------------------
 
----
-
-# ⚙️ TECHNICAL FOCUS
-
-## 🔐 Cyber Security
-- Zero-trust authentication models  
-- Input validation & sanitization  
-- Threat modeling & phishing detection  
-- Secure database triggers & constraints  
-- Encryption-aware design (AES, RSA, SHA-256)  
-- Role-based access control (RBAC)  
-
-## 🖼️ AI Vision
-- Image preprocessing (filters, normalization, augmentation)  
-- Detection pipelines (face, gesture, object tracking)  
-- Landmark tracking & feature extraction  
-- Real-time inference optimization with GPU acceleration  
-- Model deployment with TensorRT & ONNX  
-
-## 🛠️ System Architecture
-- Modular design & reusable components  
-- Workflow mapping & component separation  
-- Clean architecture principles (SOLID, DRY, KISS)  
-- Dockerized deployment & CI/CD integration  
-- Microservices & API gateway design  
-
-## ⚡ Hardware Utilization
-- **GPU:** RTX 4060 for ML/CV acceleration  
-- **RAM:** 16GB optimized for parallel workloads  
-- **Storage:** 512GB SSD for fast I/O pipelines  
-- **OS:** Windows 11 tuned for dev environments  
-- **IDE Optimization:** VS Code + IntelliJ IDEA with AI plugins  
-
----
-
-# 🛠️ TECH ARMORY
+# 🧠 TECH STACK
 
 ## 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,mysql&theme=dark" />
 
-## 🧰 Tools
-<img src="https://skillicons.dev/icons?i=vscode,idea,linux,kali,git,github,bash,docker,postman&theme=dark" />
+![Languages](https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,mysql&theme=dark)
+
+## ⚙️ Tools
+
+![Tools](https://skillicons.dev/icons?i=vscode,idea,linux,kali,git,github,bash,docker,postman&theme=dark)
 
 ## 🤖 AI Assistants
+
 `Copilot` • `ChatGPT` • `Gemini`
 
----
+------------------------------------------------------------------------
 
-# 📂 FEATURED PROJECTS
+# 🤖 AI NETWORK
 
-| PROJECT | CATEGORY | TECH STACK | HIGHLIGHT |
-| :--- | :--- | :--- | :--- |
-| **👁️ Face Recognition** | AI Biometric Security | `OpenCV` `Python` | Real-time face detection and recognition |
-| **🖱️ Virtual Mouse** | Human-Computer Interaction | `MediaPipe` `Python` | Gesture-based control using hand tracking |
-| **🛡️ Smart Phishing Detector** | Cyber Security / ML | `FastAPI` `scikit-learn` | Detects suspicious URLs and patterns |
-| **🌌 Orbital Guardian** | Database Architecture | `SQL` `ER Modeling` | Structured schema with scientific triggers |
+           🧠 AI CORE
+             │
+      ┌──────┼──────┐
+      │      │      │
+    Cyber  Vision  Systems
+    Security  AI   Architecture
+      │      │      │
+    Threat  Image  Modular
+    Model   Detect  Design
 
----
+------------------------------------------------------------------------
 
-# 📊 ACTIVITY METRICS
+# 🚀 FEATURED PROJECTS
 
-<div align="center">
+  -----------------------------------------------------------------------
+  Project           Field             Tech              Description
+  ----------------- ----------------- ----------------- -----------------
+  👁️ Face           AI Vision         Python, OpenCV    Real-time
+  Recognition                                           biometric
+                                                        detection
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dsaisrih&bg_color=000000&color=00ff9c&line=00f7ff&point=ff003c&area=true&hide_border=true&border_radius=10" width="100%"/>
+  🖱️ Virtual Mouse  Computer Vision   MediaPipe         Hand gesture
+                                                        control
 
-<br/><br/>
+  🛡️ Phishing       Cyber Security    FastAPI, ML       Detects malicious
+  Detector                                              URLs
 
-<img src="https://streak-stats.demolab.com?user=dsaisrih&theme=tokyonight&hide_border=true&ring=00ff9c&fire=ff003c&currStreakLabel=00f7ff" />
+  🌌 Orbital        Database          SQL               Space system
+  Guardian                                              architecture
+  -----------------------------------------------------------------------
 
-<br/><br/>
+------------------------------------------------------------------------
 
-<img src="https://github-readme-stats.vercel.app/api?username=dsaisrih&show_icons=true&theme=blood&hide_border=true&title_color=00ff9c&icon_color=ff003c&text_color=ffffff&count_private=true&include_all_commits=true" />
+# 📊 GITHUB ANALYTICS
 
-<br/><br/>
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=dsaisrih&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsaisrih&layout=compact&theme=blood&hide_border=true&title_color=00ff9c&text_color=ffffff" />
+![GitHub
+Streak](https://github-readme-streak-stats.herokuapp.com/?user=dsaisrih&theme=tokyonight&hide_border=true)
 
-</div>
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsaisrih&layout=compact&theme=tokyonight&hide_border=true)
 
----
+------------------------------------------------------------------------
 
-# 🐍 CONTRIBUTION SERPENT
+# 📈 CONTRIBUTION GRAPH
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/dsaisrih/dsaisrih/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-</div>
+![Activity
+Graph](https://github-readme-activity-graph.vercel.app/graph?username=dsaisrih&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)
 
----
+------------------------------------------------------------------------
 
-# ⚡ QUICK FACTS
-- **University:** SRMIST  
-- **Core Areas:** Cyber Security, AI Vision, Software Development  
-- **AI Tools Used:** Copilot, ChatGPT, Gemini  
-- **Laptop Specs:** HP Victus, RTX 4060, 16GB RAM, 512GB SSD  
-- **Coding Style:** Minimalist, optimized, and structured  
-- **Preferred Theme:** Dark, neon, futuristic  
+# 🐍 CONTRIBUTION SNAKE
 
----
+![Snake](https://raw.githubusercontent.com/dsaisrih/dsaisrih/output/github-contribution-grid-snake-dark.svg)
 
-<div align="center">
+------------------------------------------------------------------------
 
-<code><b>TRANSMISSION COMPLETE:</b> <span style="color:#00ff9c;">V4.0_NEON_TECH</span> | <b>STATUS:</b> <span style="color:#ff003c;">ACTIVE</span></code>
+# ⚡ SYSTEM SPECS
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=footer&text=--+END+OF+FILE+--&fontSize=18&fontColor=ff003c" />
+    Device: HP Victus
+    GPU: RTX 4060
+    RAM: 16GB
+    Storage: 512GB SSD
+    OS: Windows 11
+    IDE: VS Code + IntelliJ
 
-</div>
+------------------------------------------------------------------------
+
+# 🛰️ CONNECT
+
+![GitHub](https://img.shields.io/badge/GitHub-dsaisrih-000?style=for-the-badge&logo=github)
+
+------------------------------------------------------------------------
+
+    STATUS: ACTIVE
+    VERSION: V5_AI_SYSTEM_PROFILE
+    MISSION: BUILD • LEARN • SECURE
+
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=40&section=footer)
+
+------------------------------------------------------------------------
+
+# ⭐ Why This Looks Like a Top 1% Profile
+
+✔ Animated header\
+✔ Typing intro banner\
+✔ Tech stack icons\
+✔ Clean project showcase\
+✔ GitHub analytics dashboard\
+✔ Activity graph\
+✔ Contribution snake animation\
+✔ Futuristic cyber layout
