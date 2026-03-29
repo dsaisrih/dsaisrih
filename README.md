@@ -131,13 +131,3 @@ Graph](https://github-readme-activity-graph.vercel.app/graph?username=dsaisrih&b
 
 ------------------------------------------------------------------------
 
-# ⭐ Why This Looks Like a Top 1% Profile
-
-✔ Animated header\
-✔ Typing intro banner\
-✔ Tech stack icons\
-✔ Clean project showcase\
-✔ GitHub analytics dashboard\
-✔ Activity graph\
-✔ Contribution snake animation\
-✔ Futuristic cyber layout
