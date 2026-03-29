@@ -1,10 +1,12 @@
 <!-- HEADER -->
 
 <p align="center">
-<img src="https://img.shields.io/github/followers/dsaisrih?style=for-the-badge&color=ff0000&label=Followers"/>
-<img src="https://img.shields.io/github/stars/dsaisrih?style=for-the-badge&color=ff0000&label=Stars"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,40:8b0000,70:ff0000,100:ff4d4d&height=300&section=header&text=D%20SAI%20SRI%20HARSHIT&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Engineer%20•%20AI%20Developer%20•%20Systems%20Builder&descAlignY=60&descSize=22"/>
 </p>
----
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=dsaisrih&label=Profile%20Views&color=ff0000&style=for-the-badge"/>
+</p>
 
 # 👨‍💻 Engineering Profile
 
@@ -206,7 +208,7 @@ Git Version Control
 
 <img src="https://img.shields.io/badge/RAM-16GB%20DDR5-ff0000?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Storage-512GB%20NVMe%20SSD-ff0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Storage-1TB%20NVMe%20SSD-ff0000?style=for-the-badge"/>
 ---
 
 # 🌐 Connect
