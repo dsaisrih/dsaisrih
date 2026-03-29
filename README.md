@@ -98,19 +98,13 @@ Mission:
 
 </p>
 
-```
-Frontend
-HTML
-CSS
-JavaScript
-React
+## 🌐 Web Development
 
-Backend
-Node.js
-Express
-FastAPI
-REST APIs
-```
+| Layer | Technologies |
+|------|-------------|
+| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react"/> |
+| ⚙️ **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/> |
+| 🔗 **API** | REST APIs |
 
 ---
 
@@ -203,24 +197,15 @@ Git Version Control
 </p>
 
 ---
+## 💻 Development System
 
-# 💻 Development Environment
-
-```
-Laptop: HP Victus
-
-CPU
-AMD Ryzen 9
-
-GPU
-NVIDIA RTX 4060
-
-RAM
-16GB DDR5
-
-Storage
-512GB NVMe SSD
-```
+| Component | Specification |
+|-----------|---------------|
+| 💻 **Laptop** | HP Victus |
+| 🧠 **CPU** | AMD Ryzen 9 |
+| 🎮 **GPU** | NVIDIA RTX 4060 |
+| ⚡ **RAM** | 16GB DDR5 |
+| 💾 **Storage** | 512GB NVMe SSD |
 
 ---
 
