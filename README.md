@@ -1,9 +1,9 @@
 <!-- HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,40:8b0000,70:ff0000,100:ff4d4d&height=300&section=header&text=D%20SAI%20SRI%20HARSHIT&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Engineer%20•%20AI%20Developer%20•%20Systems%20Builder&descAlignY=60&descSize=22"/>
+<img src="https://img.shields.io/github/followers/dsaisrih?style=for-the-badge&color=ff0000&label=Followers"/>
+<img src="https://img.shields.io/github/stars/dsaisrih?style=for-the-badge&color=ff0000&label=Stars"/>
 </p>
-
 ---
 
 # 👨‍💻 Engineering Profile
