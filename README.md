@@ -100,11 +100,13 @@ Mission:
 
 ## 🌐 Web Development
 
-| Layer | Technologies |
-|------|-------------|
-| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react"/> |
-| ⚙️ **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/> |
-| 🔗 **API** | REST APIs |
+## 🌐 Web Development
+
+<img src="https://img.shields.io/badge/Frontend-HTML%20•%20CSS%20•%20JavaScript%20•%20React-ff0000?style=for-the-badge&logo=react&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Backend-Node.js%20•%20Express%20•%20FastAPI-ff0000?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/API-REST%20APIs-ff0000?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 ---
 
@@ -199,14 +201,15 @@ Git Version Control
 ---
 ## 💻 Development System
 
-| Component | Specification |
-|-----------|---------------|
-| 💻 **Laptop** | HP Victus |
-| 🧠 **CPU** | AMD Ryzen 9 |
-| 🎮 **GPU** | NVIDIA RTX 4060 |
-| ⚡ **RAM** | 16GB DDR5 |
-| 💾 **Storage** | 512GB NVMe SSD |
+<img src="https://img.shields.io/badge/Laptop-HP%20Victus-ff0000?style=for-the-badge&logo=hp&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%209-ff0000?style=for-the-badge&logo=amd&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GPU-NVIDIA%20RTX%204060-ff0000?style=for-the-badge&logo=nvidia&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RAM-16GB%20DDR5-ff0000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Storage-512GB%20NVMe%20SSD-ff0000?style=for-the-badge"/>
 ---
 
 # 🌐 Connect
