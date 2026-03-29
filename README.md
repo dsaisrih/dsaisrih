@@ -98,9 +98,6 @@ Mission:
 
 </p>
 
-## 🌐 Web Development
-
-## 🌐 Web Development
 
 <img src="https://img.shields.io/badge/Frontend-HTML%20•%20CSS%20•%20JavaScript%20•%20React-ff0000?style=for-the-badge&logo=react&logoColor=white"/>
 
