@@ -223,7 +223,7 @@ Git Version Control
 <img src="https://img.shields.io/badge/LinkedIn-Profile-ff0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:your-dsaisriharshit@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-ff0000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
