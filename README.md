@@ -174,7 +174,6 @@ Git Version Control
 ---
 
 # 📊 GitHub Activity
-
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=dsaisrih&theme=tokyonight&hide_border=true&ring=ff0000&fire=ff4d4d"/>
