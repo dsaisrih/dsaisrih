@@ -468,6 +468,10 @@ Currently Looking to Contribute to:
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🔐;If+you+like+my+work+—+drop+a+⭐+on+my+repos!;Let's+build+the+future+of+AI+Security+together."/>
 
 </div>
-
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,40:8b0000,70:1a0000,100:000000&height=150&section=footer&text=SYSTEM%20SHUTDOWN%20—%20SEE%20YOU%20IN%20THE%20MATRIX&fontSize=18&fontColor=ff4d4d&animation=fadeIn&fontAlignY=65"/>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,40:8b0000,70:1a0000,100:000000&height=170&section=footer&text=SYSTEM%20SHUTDOWN&fontSize=22&fontColor=ff4d4d&animation=fadeIn&fontAlignY=55&desc=With%20great%20power%20comes%20great%20responsibility&descAlignY=75&descSize=16"/>
+
+</p>
