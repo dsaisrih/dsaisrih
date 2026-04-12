@@ -1,6 +1,6 @@
 <!-- HEADER ANIMATION -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,50:8b0000,100:ff0000&height=280&section=header&text=D%20SAI%20SRI%20HARSHIT&fontSize=70&fontColor=ffffff&animation=blinking&fontAlignY=55&desc=HARSHIT%20%7C%20Cyber%20Security%20Engineer%20%7C%20AI%20Developer%20%7C%20Systems%20Architect&descAlignY=78&descSize=16&descColor=ffaaaa"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,50:8b0000,100:ff0000&height=280&section=header&text=D%20SAI%20SRI%20HARSHIT&fontSize=70&fontColor=ffffff&animation=blinking&fontAlignY=55&desc=Cyber%20Security%20Engineer%20%7C%20AI%20Developer%20%7C%20Systems%20Architect&descAlignY=78&descSize=16&descColor=ffaaaa"/>
 </div>
 
 <!-- TYPING ANIMATION — single-line scroll, no multiline flag, emoji-free for reliability -->
@@ -22,38 +22,7 @@
 
 ---
 
-<!-- SYSTEM BOOT SEQUENCE -->
-# 〔 ⚡ SYSTEM INITIALIZATION 〕
 
-```bash
-███████████████████████████████████████████████████████████████
-█                                                             █
-█   ██████╗     ███████╗ █████╗ ██╗    ███████╗██████╗ ██╗  █
-█   ██╔══██╗    ██╔════╝██╔══██╗██║    ██╔════╝██╔══██╗██║  █
-█   ██║  ██║    ███████╗███████║██║    ███████╗██████╔╝██║  █
-█   ██║  ██║    ╚════██║██╔══██║██║    ╚════██║██╔══██╗██║  █
-█   ██████╔╝    ███████║██║  ██║██║    ███████║██║  ██║██║  █
-█   ╚═════╝     ╚══════╝╚═╝  ╚═╝╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  █
-█                                                             █
-███████████████████████████████████████████████████████████████
-
-[BOOT] >> Initializing D Sai Sri Harshit System...
-[BOOT] >> Loading Kernel Modules...
-
-[✔] CyberSecurity Engine ............. LOADED
-[✔] AI/ML Neural Cores .............. LOADED
-[✔] Computer Vision Module .......... LOADED
-[✔] Backend Architecture ............ LOADED
-[✔] Threat Detection System ......... ARMED
-[✔] Firewall ........................ ACTIVE
-[✔] Encryption Layer ................ AES-256
-
-[SYSTEM] >> All systems nominal.
-[SYSTEM] >> STATUS: FULLY OPERATIONAL 🚀
-[SYSTEM] >> THREAT LEVEL: GUARDIAN MODE 🛡
-```
-
----
 
 <!-- ABOUT ME TERMINAL -->
 # 〔 👨‍💻 IDENTITY CARD 〕
@@ -355,13 +324,6 @@ Q4 2026  ░░░░░░░░░░░░░░░░░░░░░░░�
 # 〔 📊 GITHUB INTELLIGENCE DASHBOARD 〕
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dsaisrih&show_icons=true&theme=radical&hide_border=true&title_color=ff0000&icon_color=ff4d4d&text_color=ffffff&bg_color=0d0d0d&include_all_commits=true&count_private=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsaisrih&layout=donut&theme=radical&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=0d0d0d&langs_count=8" width="38%"/>
-
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=dsaisrih&theme=dark&hide_border=true&ring=ff0000&fire=ff4d4d&currStreakLabel=ff4d4d&sideLabels=ff4d4d&dates=aaaaaa&background=0d0d0d&stroke=ff0000" width="70%"/>
 </div>
 
@@ -369,11 +331,6 @@ Q4 2026  ░░░░░░░░░░░░░░░░░░░░░░░�
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dsaisrih&bg_color=0d0d0d&color=ff4d4d&line=ff0000&point=ffffff&area=true&area_color=3d0000&hide_border=true&custom_title=D%20Sai%20Sri%20Harshit%20-%20Contribution%20Timeline" width="98%"/>
 </div>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dsaisrih&theme=radical&no-frame=true&no-bg=false&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
-</div>
 
 ### 🐍 Contribution Grid Snake
 
