@@ -1,11 +1,13 @@
 <!-- HEADER ANIMATION -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:1a0000,60:8b0000,100:ff0000&height=350&section=header&text=D%20SAI%20SRI%20HARSHIT&fontSize=65&fontColor=ff4d4d&animation=fadeIn&fontAlignY=38&desc=⚡%20Cyber%20Security%20Engineer%20•%20AI%20Developer%20•%20Systems%20Architect%20⚡&descAlignY=60&descSize=20&stroke=ff0000&strokeWidth=2"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,50:8b0000,100:ff0000&height=280&section=header&text=D%20SAI%20SRI%20HARSHIT&fontSize=70&fontColor=ffffff&animation=blinking&fontAlignY=55&desc=HARSHIT%20%7C%20Cyber%20Security%20Engineer%20%7C%20AI%20Developer%20%7C%20Systems%20Architect&descAlignY=78&descSize=16&descColor=ffaaaa"/>
 </div>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION — single-line scroll, no multiline flag, emoji-free for reliability -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🔐+Cyber+Security+Engineer+%7C+AI+Developer;🤖+Building+Intelligent+%26+Secure+Systems;🛡+Hacking+%7C+Defending+%7C+Automating;⚡+SRM+University+%7C+Class+of+2026" alt="Typing SVG" />
+  <a href="https://github.com/dsaisrih">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF3333&background=00000000&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+D+Sai+Sri+Harshit+%F0%9F%91%8B;Cyber+Security+Engineer+%7C+AI+Developer;Building+Intelligent+%26+Secure+Systems;Penetration+Tester+%7C+Python+Expert;SRM+University+%7C+Class+of+2026+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </div>
 
 <!-- BADGES ROW -->
@@ -175,13 +177,6 @@ TypeScript               █████░░░░░░░ 55%
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#ff0000', 'edgeLabelBackground':'#1a0000', 'tertiaryColor': '#0d0d0d'}}}%%
 timeline
     title D Sai Sri Harshit — Engineering Journey
-    2022 : Started Python Programming
-         : Explored C and C++ Fundamentals
-         : Built First Automation Scripts
-    2023 : Discovered Computer Vision with OpenCV
-         : Built Virtual Mouse System with MediaPipe
-         : Studied Network Security Fundamentals
-         : First REST API Development
     2024 : Face Recognition Biometric System
          : Orbital Guardian SQL Database
          : Started Penetration Testing
@@ -361,23 +356,23 @@ Q4 2026  ░░░░░░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dsaisrih&show_icons=true&theme=blood_dark&hide_border=true&title_color=ff0000&icon_color=ff4d4d&text_color=ffffff&bg_color=0d0d0d&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsaisrih&layout=compact&theme=blood_dark&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=0d0d0d&langs_count=10" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dsaisrih&show_icons=true&theme=radical&hide_border=true&title_color=ff0000&icon_color=ff4d4d&text_color=ffffff&bg_color=0d0d0d&include_all_commits=true&count_private=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsaisrih&layout=donut&theme=radical&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=0d0d0d&langs_count=8" width="38%"/>
 
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=dsaisrih&theme=blood-dark&hide_border=true&ring=ff0000&fire=ff4d4d&currStreakLabel=ff0000&sideLabels=ffffff&dates=888888" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=dsaisrih&theme=dark&hide_border=true&ring=ff0000&fire=ff4d4d&currStreakLabel=ff4d4d&sideLabels=ff4d4d&dates=aaaaaa&background=0d0d0d&stroke=ff0000" width="70%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dsaisrih&bg_color=0d0d0d&color=ff4d4d&line=ff0000&point=ffffff&area=true&area_color=8b0000&hide_border=true&custom_title=D%20Sai%20Sri%20Harshit%20—%20Contribution%20Timeline" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dsaisrih&bg_color=0d0d0d&color=ff4d4d&line=ff0000&point=ffffff&area=true&area_color=3d0000&hide_border=true&custom_title=D%20Sai%20Sri%20Harshit%20-%20Contribution%20Timeline" width="98%"/>
 </div>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dsaisrih&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dsaisrih&theme=radical&no-frame=true&no-bg=false&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 </div>
 
 ### 🐍 Contribution Grid Snake
@@ -392,31 +387,28 @@ Q4 2026  ░░░░░░░░░░░░░░░░░░░░░░░�
 
 # 〔 🔬 CURRENT RESEARCH INTERESTS 〕
 
-```python
-class ResearchFocus:
-    def __init__(self):
-        self.primary_interests = [
-            "AI-Driven Threat Intelligence",
-            "Large Language Model Security (Prompt Injection / Jailbreaking)",
-            "Zero-Day Vulnerability Discovery using ML",
-            "Federated Learning for Privacy-Preserving Security",
-            "Adversarial Attacks on Computer Vision Systems",
-        ]
-        self.secondary_interests = [
-            "Behavioral Biometrics for Continuous Authentication",
-            "Graph Neural Networks for Network Intrusion Detection",
-            "Explainable AI in Cybersecurity Decision Making",
-            "Side-Channel Attack Analysis",
-        ]
-        self.publications_target = "2026 — IEEE / ACM Conference on AI Security"
+### 🧬 Primary Research Areas
 
-    def mission_statement(self):
-        return """
-        At the intersection of Artificial Intelligence and Cyber Security,
-        I aim to build systems that do not just defend — they predict,
-        adapt, and evolve against future threats.
-        """
-```
+| 🔍 Topic | 📌 Focus |
+|:---|:---|
+| 🤖 AI-Driven Threat Intelligence | Using ML to predict and classify cyber threats in real-time |
+| 🧠 LLM Security | Prompt injection, jailbreaking & adversarial attacks on language models |
+| 🕳 Zero-Day Discovery via ML | Automating vulnerability identification with deep learning |
+| 🔏 Federated Learning for Privacy | Privacy-preserving security models without centralised data |
+| 👁 Adversarial Vision Attacks | Fooling computer vision security systems with adversarial inputs |
+
+### 🧪 Secondary Interests
+
+| 🔍 Topic | 📌 Focus |
+|:---|:---|
+| 🧬 Behavioral Biometrics | Continuous user authentication via behavioral patterns |
+| 🕸 GNN for Intrusion Detection | Graph Neural Networks to detect network anomalies |
+| 🧩 Explainable AI in Security | Making AI security decisions transparent and auditable |
+| ⚡ Side-Channel Analysis | Hardware-level attack and defence research |
+
+> 🎯 **Publications Target:** IEEE / ACM Conference on AI Security — 2026
+>
+> *"At the intersection of Artificial Intelligence and Cyber Security, I aim to build systems that don't just defend — they predict, adapt, and evolve against future threats."*
 
 ---
 
@@ -483,11 +475,21 @@ Currently Looking to Contribute to:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-dsaisrih-ff0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/dsaisrih)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Profile-ff0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/EMAIL-dsaisriharshit%40gmail.com-ff0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:dsaisriharshit@gmail.com)
-[![Twitter](https://img.shields.io/badge/TWITTER-Follow-ff0000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d)](https://twitter.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Website-ff0000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d)](#)
+<a href="https://github.com/dsaisrih">
+  <img src="https://img.shields.io/badge/GitHub-dsaisrih-ff0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/dsaisrih">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-ff0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/>
+</a>
+&nbsp;
+<a href="mailto:dsaisriharshit@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-dsaisriharshit-ff0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/>
+</a>
+&nbsp;
+<a href="https://x.com/dsaisrih">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-ff0000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d0d"/>
+</a>
 
 </div>
 
