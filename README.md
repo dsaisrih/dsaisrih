@@ -464,13 +464,11 @@ Currently Looking to Contribute to:
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
+  🕷🕷🕷🕷
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🔐;If+you+like+my+work+—+drop+a+⭐+on+my+repos!;Let's+build+the+future+of+AI+Security+together."/>
 
-</div>
 <!-- FOOTER -->
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,40:8b0000,70:1a0000,100:000000&height=170&section=footer&text=SYSTEM%20SHUTDOWN&fontSize=22&fontColor=ff4d4d&animation=fadeIn&fontAlignY=55&desc=%22WITH%20GREAT%20POWER%20COMES%20GREAT%20RESPONSIBILITY%22&descAlignY=75&descSize=16"/>
 
 </p>
