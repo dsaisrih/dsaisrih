@@ -469,9 +469,8 @@ Currently Looking to Contribute to:
 
 </div>
 <!-- FOOTER -->
-
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,40:8b0000,70:1a0000,100:000000&height=170&section=footer&text=SYSTEM%20SHUTDOWN&fontSize=22&fontColor=ff4d4d&animation=fadeIn&fontAlignY=55&desc=With%20great%20power%20comes%20great%20responsibility&descAlignY=75&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,40:8b0000,70:1a0000,100:000000&height=170&section=footer&text=SYSTEM%20SHUTDOWN&fontSize=22&fontColor=ff4d4d&animation=fadeIn&fontAlignY=55&desc=%22WITH%20GREAT%20POWER%20COMES%20GREAT%20RESPONSIBILITY%22&descAlignY=75&descSize=16"/>
 
 </p>
