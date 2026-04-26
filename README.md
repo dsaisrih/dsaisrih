@@ -379,12 +379,12 @@ Q4 2026  ░░░░░░░░░░░░░░░░░░░░░░░�
 | 🧠 **CPU** | AMD Ryzen 9 | Heavy ML Training & Compilation |
 | 🎮 **GPU** | NVIDIA RTX 4060 8GB VRAM | Deep Learning, CV Model Training |
 | 🧊 **RAM** | 16GB DDR5 | Multi-VM Pentesting Labs |
-| 💾 **Storage** | 512GB NVMe SSD | Fast Boot, Rapid I/O |
-| 🖥 **OS** | Windows 11 + Kali Linux (Dual Boot) | Dev + Security Research |
+| 💾 **Storage** | 1TB NVMe SSD | Fast Boot, Rapid I/O |
+| 🖥 **OS** | Windows 11 + Kali Linux (VMWare) + Linux (VMWare) | Dev + Security Research |
 | 🔧 **IDE** | VS Code + PyCharm + Neovim | Multi-Language Development |
 | 🌐 **Browser** | Brave + Burp Suite Proxy | Secure Browsing + Web Pentesting |
 | 🔑 **VPN** | ProtonVPN | OpSec & Secure Tunneling |
-| 📡 **Virtualization** | VirtualBox + Docker | Isolated Lab Environments |
+| 📡 **Virtualization** | VirtualBox + VMWare + Docker | Isolated Lab Environments |
 
 </div>
 
