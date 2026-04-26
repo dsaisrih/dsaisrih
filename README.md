@@ -37,7 +37,7 @@
 ║  Role         :  Cyber Security Engineer | AI Developer      ║
 ║  University   :  SRM Institute of Science & Technology       ║
 ║  Location     :  India 🇮🇳                                   ║
-║  Year         :  2026 Graduate — B.Tech CSE                  ║
+║  Year         :  2028 Graduate — B.Tech CSE                  ║
 ║                                                              ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
