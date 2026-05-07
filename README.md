@@ -1,67 +1,104 @@
-<!-- HEADER ANIMATION -->
+<!-- ========================================================= -->
+<!--               CYBERPUNK HERO HEADER — BLUE/DARK          -->
+<!-- ========================================================= -->
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,50:8b0000,100:ff0000&height=280&section=header&text=D%20SAI%20SRI%20HARSHIT&fontSize=70&fontColor=ffffff&animation=blinking&fontAlignY=55&desc=Cyber%20Security%20Engineer%20%7C%20AI%20Developer%20%7C%20Systems%20Architect&descAlignY=78&descSize=16&descColor=ffaaaa"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,25:00008b,50:0047ff,75:00008b,100:050510&height=320&section=header&text=D%20SAI%20SRI%20HARSHIT&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Cyber%20Security%20Engineer%20%7C%20AI%20Developer%20%7C%20Quantum%20Computing%20Explorer&descAlignY=60&descSize=20&descColor=aad4ff"/>
+
 </div>
 
-<!-- TYPING ANIMATION — single-line scroll, no multiline flag, emoji-free for reliability -->
-<div align="center">
-  <a href="https://github.com/dsaisrih">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF3333&background=00000000&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+D+Sai+Sri+Harshit+%F0%9F%91%8B;Cyber+Security+Engineer+%7C+AI+Developer;Building+Intelligent+%26+Secure+Systems;Penetration+Tester+%7C+Python+Expert;SRM+University+%7C+Class+of+2024+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</div>
+<!-- ========================================================= -->
+<!--                     TYPING ANIMATION                      -->
+<!-- ========================================================= -->
 
-<!-- BADGES ROW -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dsaisrih&label=👁%20PROFILE%20VIEWS&color=ff0000&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/dsaisrih?label=FOLLOWERS&style=for-the-badge&color=ff0000&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE%20🟢-ff0000?style=for-the-badge&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-ff0000?style=for-the-badge&labelColor=0d0d0d"/>
+
+<a href="https://github.com/dsaisrih">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=0099FF&center=true&vCenter=true&width=900&lines=Hey+There+%F0%9F%91%8B+I'm+D+Sai+Sri+Harshit;Cyber+Security+Engineer+%7C+AI+Developer;Building+AI-Powered+Security+Systems;Quantum+Computing+%7C+GIS+%7C+Computer+Vision;FastAPI+%7C+React+%7C+Firebase+%7C+Qiskit;Penetration+Tester+%7C+Python+Expert;SRM+University+%7C+Class+of+2028+%F0%9F%9A%80;Secure+Systems+Need+Intelligent+Defenders." alt="Typing SVG" />
+</a>
+
 </div>
 
 <br>
 
+<!-- ========================================================= -->
+<!--                          BADGES                           -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=dsaisrih&label=PROFILE+VIEWS&color=0047ff&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/dsaisrih?style=for-the-badge&color=0047ff&labelColor=050510"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE%20🟢-0047ff?style=for-the-badge&logo=github&logoColor=white&labelColor=050510"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS%20%26%20COLLABORATIONS-0047ff?style=for-the-badge&labelColor=050510"/>
+
+</div>
+
 ---
 
-
-
-<!-- ABOUT ME TERMINAL -->
-# 〔 👨‍💻 IDENTITY CARD 〕
+# 〔 👨‍💻 ENGINEER PROFILE 〕
 
 ```yaml
 ╔══════════════════════════════════════════════════════════════╗
-║              ◈ ENGINEER PROFILE — CLASSIFIED ◈              ║
+║                ◈ CLASSIFIED ENGINEER CARD ◈                 ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  Name         :  D Sai Sri Harshit                          ║
-║  Alias        :  @dsaisrih                                   ║
-║  Role         :  Cyber Security Engineer | AI Developer      ║
-║  University   :  SRM Institute of Science & Technology       ║
-║  Location     :  India 🇮🇳                                   ║
-║  Year         :  2028 Graduate — B.Tech CSE                  ║
+║  Name         : D Sai Sri Harshit                           ║
+║  Username     : @dsaisrih                                   ║
+║  Role         : Cyber Security Engineer                     ║
+║                 AI Developer | Quantum Explorer             ║
 ║                                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  SPECIALIZATIONS:                                            ║
-║    ► Penetration Testing & Ethical Hacking                   ║
-║    ► AI-Powered Security Systems                             ║
-║    ► Real-Time Computer Vision                               ║
-║    ► Secure API & Backend Architecture                       ║
-║    ► Threat Intelligence & Crime Analytics                   ║
+║  University   : SRM Institute of Science & Technology       ║
+║  Degree       : B.Tech CSE (Cyber Security)                 ║
+║  Graduation   : 2028                                        ║
+║  Location     : India 🇮🇳                                   ║
 ║                                                              ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  MISSION:                                                    ║
-║    Build secure, scalable & intelligent systems that         ║
-║    merge offensive security with AI-driven defense.          ║
+║  SPECIALIZATIONS                                             ║
 ║                                                              ║
-║  CURRENTLY:                                                  ║
-║    🔭 Working on  →  AI Crime Analysis Platform              ║
-║    🌱 Learning    →  Advanced Red Teaming & LLM Security     ║
-║    🤝 Open to     →  Internships & Research Collabs          ║
-║    💡 Building    →  AI Security SaaS                        ║
+║   ► AI Security Systems                                     ║
+║   ► Penetration Testing & Ethical Hacking                   ║
+║   ► Quantum Computing Applications                          ║
+║   ► GIS + Crime Intelligence Systems                        ║
+║   ► Computer Vision & Real-Time AI                          ║
+║   ► Secure API & Backend Architecture                       ║
+║   ► Threat Intelligence & OSINT                             ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  CURRENTLY                                                   ║
+║                                                              ║
+║   🔭 Working On  → AI Crime Path Reconstructor              ║
+║   ⚛  Exploring  → Quantum Portfolio Optimization            ║
+║   🌱 Learning   → Advanced Red Teaming & LLM Security       ║
+║   🛰  Researching→ AI + GIS + Cyber Intelligence            ║
+║   💡 Building   → AI Security SaaS Systems                  ║
+║   🤝 Open To    → Research & Open Source Collaborations     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# 〔 🧠 CORE ENGINEERING DOMAINS 〕
+
+<div align="center">
+
+| DOMAIN | FOCUS |
+|:---|:---|
+| 🔐 Cyber Security | Pentesting, Threat Intelligence, Recon, OSINT |
+| 🤖 Artificial Intelligence | ML, Computer Vision, AI Security |
+| 🌐 Full Stack Development | React, FastAPI, REST APIs |
+| ⚛ Quantum Computing | Qiskit, QML, QAOA Optimization |
+| 🛰 GIS Intelligence | Crime Route Reconstruction & Mapping |
+| ☁ Cloud Engineering | Firebase, Docker, Vercel, Render |
+| 📊 Data Engineering | SQL, Analytics, Pipelines |
+
+</div>
 
 ---
 
@@ -97,7 +134,7 @@ NLP / LLMs               ███████░░░░░ 65%
 AI Security Systems      ██████████░░ 82%
 Data Analysis            █████████░░░ 78%
 Real-Time AI Systems     ███████████░ 88%
-Predictive Analytics     ████████░░░░ 70%
+Quantum ML               ████████░░░░ 70%
 ```
 
 </td>
@@ -120,15 +157,15 @@ System Architecture      █████████░░░ 75%
 </td>
 <td width="50%">
 
-### 🌐 FRONTEND & OTHER
+### ⚛ QUANTUM & FRONTEND
 ```
+Qiskit / QML             ████████░░░░ 70%
+QAOA Optimization        ███████░░░░░ 65%
+React / JS               ███████░░░░░ 65%
 HTML / CSS               ████████████ 88%
-JavaScript               ███████░░░░░ 65%
-React Basics             ██████░░░░░░ 60%
 OpenCV / MediaPipe       ████████████ 92%
 Git & Version Control    ██████████░░ 85%
 C / C++                  ████████░░░░ 70%
-Java                     ███████░░░░░ 65%
 TypeScript               █████░░░░░░░ 55%
 ```
 
@@ -138,31 +175,60 @@ TypeScript               █████░░░░░░░ 55%
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# 〔 ⚡ TECHNICAL ARSENAL 〕
 
-# 〔 🧩 PROJECT EVOLUTION — TECH TIMELINE 〕
+### 💻 Languages
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#ff0000', 'edgeLabelBackground':'#1a0000', 'tertiaryColor': '#0d0d0d'}}}%%
-timeline
-    title D Sai Sri Harshit — Engineering Journey
-    2024 : Face Recognition Biometric System
-         : Orbital Guardian SQL Database
-         : Started Penetration Testing
-         : Phishing Detection ML Model
-         : Advanced FastAPI Development
-    2025 : AI-Powered Security Systems
-         : Crime Analysis and Prediction Tool
-         : Docker and Containerization
-         : OSINT and Red Teaming Skills
-         : AI SaaS Platform Planning
-    2026 : Security Certifications Target
-         : Open Source AI Security Contribution
-         : Research Paper Publication
-         : Full-Scale Deployment 🚀
-```
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,bash,go,rust&theme=dark"/>
+</p>
+
+### ⚙️ Frameworks, Backend & Cloud
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,firebase,supabase&theme=dark"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
+
+### 🤖 AI / ML / Quantum
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=IBM&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🔐 Security Arsenal
+
+<p align="left">
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+</p>
+
+### 🗄 Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase&theme=dark"/>
+</p>
+
+### ☁ DevOps & Infrastructure
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,vscode,aws&theme=dark"/>
+</p>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 〔 🚀 FEATURED PROJECTS — MISSION DOSSIER 〕
 
@@ -170,121 +236,98 @@ timeline
 
 | 🔢 | PROJECT | TECH STACK | DOMAIN | STATUS | IMPACT |
 |:---:|:---|:---|:---|:---:|:---|
-| 01 | **👁 Face Recognition System** | Python, OpenCV, dlib | AI Security | ✅ Live | Real-time biometric auth with liveness detection |
-| 02 | **🖱 Virtual Mouse** | Python, MediaPipe, cv2 | HCI / AI | ✅ Live | Touchless gesture-controlled cursor system |
-| 03 | **🛡 Phishing URL Detector** | ML, FastAPI, Scikit-learn | Cyber Security | 🔄 v2.0 | AI-based malicious link detection API |
-| 04 | **🌌 Orbital Guardian** | PostgreSQL, SQL | Space Tech / DB | ✅ Live | Full mission database for space operations |
-| 05 | **🕵 Crime Analysis Tool** | Python, AI, Maps API | Public Safety | 🚧 Active | Predictive crime mapping and pattern analysis |
-| 06 | **🔍 OSINT Recon Tool** | Python, APIs | Cyber Security | 🧪 Dev | Automated open-source intelligence framework |
-| 07 | **🤖 AI Network Monitor** | Python, ML, Sockets | Network Security | 🧪 Dev | Real-time anomaly detection in network traffic |
+| 01 | **🛰 AI Crime Path Reconstructor** | React, FastAPI, OSRM, GIS | AI + Cyber Security | 🚧 Active | Real-time crime route mapping & prediction engine |
+| 02 | **⚛ Quantum Multi-Fault Classification** | Qiskit, React, AerSimulator | Quantum AI | ✅ Live | Noise-resilient quantum circuit fault detection |
+| 03 | **📈 Quantum Portfolio Optimizer** | Qiskit, FastAPI, React | Quantum Finance | 🧪 Research | QAOA-powered financial portfolio optimization |
+| 04 | **🔐 AI Social Engineering Detector** | NLP, FastAPI, React | Cyber Security | 🚧 Dev | AI-powered phishing & manipulation detection |
+| 05 | **🛡 Phishing URL Detector v2** | ML, FastAPI, Scikit-learn | Cyber Security | 🔄 v2.0 | 92% accuracy malicious URL classifier API |
+| 06 | **👁 Face Recognition System** | Python, OpenCV, dlib | AI Security | ✅ Complete | Real-time biometric auth with liveness detection |
+| 07 | **🖱 Virtual Mouse Controller** | Python, MediaPipe, cv2 | HCI / AI | ✅ Complete | Touchless gesture-controlled cursor system |
+| 08 | **🌌 Orbital Guardian Database** | PostgreSQL, SQL | Space Tech | ✅ Complete | Full mission database for space operations |
+| 09 | **🔍 OSINT Recon Framework** | Python, APIs | Cyber Security | 🧪 Dev | Automated open-source intelligence aggregator |
+| 10 | **🤖 AI Network Anomaly Monitor** | Python, ML, Sockets | Network Security | 🧪 Dev | Real-time ML-based traffic anomaly detection |
 
 </div>
 
-### 📈 Live Project Progress Dashboard
+---
+
+# 〔 📊 PROJECT STATUS DASHBOARD 〕
 
 ```
-╔════════════════════════════════════════════════════════════════╗
-║                  PROJECT STATUS TRACKER v2.0                  ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║  🕵 CRIME ANALYSIS TOOL                                        ║
-║  ├─ UI Dashboard        ██████████████████████ 100% ✅         ║
-║  ├─ Data Pipeline       ████████████████░░░░░░  75% 🔄         ║
-║  ├─ Map Integration     ██████████████░░░░░░░░  70% 🔄         ║
-║  ├─ AI Prediction       ████████████░░░░░░░░░░  60% 🚧         ║
-║  └─ API Deployment      ████████░░░░░░░░░░░░░░  40% 🚧         ║
-║                                                                ║
-║  🛡 PHISHING DETECTOR v2.0                                     ║
-║  ├─ Dataset Collection  ██████████████████████ 100% ✅         ║
-║  ├─ Model Training      ████████████████████░░  92% ✅         ║
-║  ├─ FastAPI Backend     ██████████████████░░░░  90% 🔄         ║
-║  ├─ Model Accuracy      ████████████████░░░░░░  80% 🔄         ║
-║  └─ Web Dashboard       ██████████░░░░░░░░░░░░  50% 🚧         ║
-║                                                                ║
-║  🔍 OSINT RECON TOOL                                           ║
-║  ├─ Core Engine         ██████████████░░░░░░░░  65% 🔄         ║
-║  ├─ API Integrations    ██████████░░░░░░░░░░░░  50% 🚧         ║
-║  └─ Report Generator    ████████░░░░░░░░░░░░░░  35% 🚧         ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                   LIVE DEVELOPMENT STATUS v3.0                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  🛰 AI CRIME PATH RECONSTRUCTOR                                  ║
+║  ├─ Frontend UI         ████████████████████  100% ✅           ║
+║  ├─ GIS Integration     ███████████████░░░░░   75% 🔄           ║
+║  ├─ Evidence Mapping    █████████████░░░░░░░   70% 🔄           ║
+║  ├─ AI Prediction       ████████████░░░░░░░░   60% 🚧           ║
+║  └─ API Deployment      ███████░░░░░░░░░░░░░   40% 🚧           ║
+║                                                                  ║
+║  ⚛ QUANTUM MULTI-FAULT CLASSIFICATION                            ║
+║  ├─ Quantum Circuit     ████████████████████  100% ✅           ║
+║  ├─ Fidelity Analysis   ██████████████████░░   90% ✅           ║
+║  ├─ Frontend UI         █████████████████░░░   85% 🔄           ║
+║  └─ Noise Simulation    ██████████████░░░░░░   70% 🔄           ║
+║                                                                  ║
+║  📈 QUANTUM PORTFOLIO OPTIMIZER                                  ║
+║  ├─ QAOA Circuit        █████████████████░░░   85% 🔄           ║
+║  ├─ FastAPI Backend     ██████████████░░░░░░   70% 🔄           ║
+║  ├─ React Dashboard     ████████████░░░░░░░░   60% 🚧           ║
+║  └─ Backtesting Engine  █████████░░░░░░░░░░░   45% 🚧           ║
+║                                                                  ║
+║  🔐 AI SOCIAL ENGINEERING DETECTOR                               ║
+║  ├─ NLP Model Training  ██████████████░░░░░░   70% 🔄           ║
+║  ├─ FastAPI Backend     ████████████░░░░░░░░   60% 🔄           ║
+║  ├─ React Frontend      ██████████░░░░░░░░░░   50% 🚧           ║
+║  └─ Dataset Collection  ████████████████░░░░   80% 🔄           ║
+║                                                                  ║
+║  🛡 PHISHING DETECTOR v2.0                                       ║
+║  ├─ Dataset Collection  ████████████████████  100% ✅           ║
+║  ├─ Model Training      ████████████████████   92% ✅           ║
+║  ├─ FastAPI Backend     ██████████████████░░   90% 🔄           ║
+║  ├─ Model Accuracy      ████████████████░░░░   80% 🔄           ║
+║  └─ Web Dashboard       ██████████░░░░░░░░░░   50% 🚧           ║
+║                                                                  ║
+║  🔍 OSINT RECON FRAMEWORK                                        ║
+║  ├─ Core Engine         ██████████████░░░░░░   65% 🔄           ║
+║  ├─ API Integrations    ██████████░░░░░░░░░░   50% 🚧           ║
+║  └─ Report Generator    ████████░░░░░░░░░░░░   35% 🚧           ║
+║                                                                  ║
+║  🤖 AI NETWORK ANOMALY MONITOR                                   ║
+║  ├─ Traffic Capture     █████████████░░░░░░░   65% 🔄           ║
+║  ├─ ML Anomaly Model    ████████████░░░░░░░░   55% 🚧           ║
+║  └─ Alert Dashboard     ███████░░░░░░░░░░░░░   35% 🚧           ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 〔 💻 TECHNICAL ARSENAL 〕
-
-### 🐍 Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,go,bash,rust,html,css&theme=dark&perline=11"/>
-</p>
-
-### 🤖 AI / ML / Vision
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" height="48"/>
-</p>
-
-### 🛡 Security Tools & Frameworks
-
-<p align="left">
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-</p>
-
-### ⚙️ Frameworks & Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,react&theme=dark"/>
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&theme=dark"/>
-</p>
-
-### ☁️ Infrastructure, DevOps & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,git,github,vscode&theme=dark"/>
-</p>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-# 〔 🎯 CERTIFICATION TARGETS & LEARNING PATH 〕
+# 〔 🧩 ENGINEERING TIMELINE 〕
 
 ```mermaid
-%%{init: {'theme': 'dark'}}%%
-graph TD
-    A[🎓 B.Tech CSE — SRM 2026] --> B[🔐 CompTIA Security+]
-    A --> C[🤖 TensorFlow Developer Cert]
-    B --> D[💀 CEH — Certified Ethical Hacker]
-    B --> E[🛡 eJPT — eLearnSecurity]
-    D --> F[🔴 OSCP — Offensive Security]
-    E --> F
-    C --> G[☁️ AWS ML Specialty]
-    F --> H[🏆 CISSP — Elite Certification]
-    G --> H
-    H --> I[🚀 AI Security Researcher]
-
-    style A fill:#8b0000,stroke:#ff4d4d
-    style F fill:#ff0000,stroke:#fff
-    style H fill:#ff4d4d,stroke:#fff
-    style I fill:#cc0000,stroke:#ff9999,stroke-width:3px
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#0047ff', 'edgeLabelBackground':'#00001a', 'tertiaryColor': '#050510'}}}%%
+timeline
+    title D Sai Sri Harshit — Engineering Journey
+    2024 : Face Recognition Biometric System
+         : Orbital Guardian SQL Database
+         : Started Penetration Testing
+         : Phishing Detection ML Model
+         : Advanced FastAPI Development
+    2025 : AI Crime Path Reconstructor
+         : Quantum Fault Classification
+         : OSINT & Red Teaming Skills
+         : AI Social Engineering Detector
+         : Quantum Portfolio Optimizer
+    2026 : AI Security SaaS Launch
+         : Security Certifications (CEH)
+         : Research Paper Publication
+         : Open Source Contributions
+         : Full-Scale Production Deployment 🚀
 ```
 
 ---
@@ -293,22 +336,22 @@ graph TD
 
 ```
 Q1 2026  ████████████████░░░░░░░░  75% COMPLETE
-  ✅ Complete Crime Analysis Tool Core
-  ✅ Phishing Detector v2.0 API Live
-  🔄 OSINT Framework Beta Release
+  ✅ AI Crime Path Reconstructor — Frontend Done
+  ✅ Quantum Fault Classifier — Live
+  🔄 Phishing Detector v2.0 API Improving
   🔄 GitHub Profile Revamp
 
 Q2 2026  ████████░░░░░░░░░░░░░░░░  35% IN PROGRESS
   🚧 Launch AI Security SaaS MVP
   🚧 Achieve CEH Certification
-  🚧 Deploy First Production API
-  📋 Begin Research Paper Writing
+  🚧 AI Social Engineering Detector — Beta
+  🚧 Deploy Quantum Portfolio Optimizer
 
 Q3 2026  ░░░░░░░░░░░░░░░░░░░░░░░░  PLANNED
   📋 Submit Research Paper — AI Threat Intelligence
-  📋 Open Source Contributions — Top AI Security repos
+  📋 Open Source Contributions — Top AI Security Repos
+  📋 OSINT Framework Public Release
   📋 Start OSCP Prep
-  📋 Secure Internship or Job Offer
 
 Q4 2026  ░░░░░░░░░░░░░░░░░░░░░░░░  PLANNED
   📋 Full-Time Role: Cyber Security / AI Engineer
@@ -319,30 +362,36 @@ Q4 2026  ░░░░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# 〔 🎯 CERTIFICATION ROADMAP 〕
 
-# 〔 📊 GITHUB INTELLIGENCE DASHBOARD 〕
+```mermaid
+%%{init: {'theme': 'dark'}}%%
+graph TD
+    A[🎓 B.Tech CSE — SRM 2028] --> B[🔐 CompTIA Security+]
+    A --> C[🤖 TensorFlow Developer Cert]
+    A --> Q[⚛ IBM Quantum Developer Cert]
+    B --> D[💀 CEH — Certified Ethical Hacker]
+    B --> E[🛡 eJPT — eLearnSecurity]
+    D --> F[🔴 OSCP — Offensive Security]
+    E --> F
+    C --> G[☁️ AWS ML Specialty]
+    Q --> R[🔬 Quantum ML Research]
+    F --> H[🏆 CISSP — Elite Certification]
+    G --> H
+    R --> H
+    H --> I[🚀 AI Security Researcher]
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=dsaisrih&theme=dark&hide_border=true&ring=ff0000&fire=ff4d4d&currStreakLabel=ff4d4d&sideLabels=ff4d4d&dates=aaaaaa&background=0d0d0d&stroke=ff0000" width="70%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dsaisrih&bg_color=0d0d0d&color=ff4d4d&line=ff0000&point=ffffff&area=true&area_color=3d0000&hide_border=true&custom_title=D%20Sai%20Sri%20Harshit%20-%20Contribution%20Timeline" width="98%"/>
-</div>
-
-
-### 🐍 Contribution Grid Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/dsaisrih/dsaisrih/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+    style A fill:#00008b,stroke:#0047ff
+    style F fill:#0047ff,stroke:#fff
+    style H fill:#4d94ff,stroke:#fff
+    style I fill:#003399,stroke:#99c2ff,stroke-width:3px
+```
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 〔 🔬 CURRENT RESEARCH INTERESTS 〕
+# 〔 🔬 RESEARCH INTERESTS 〕
 
 ### 🧬 Primary Research Areas
 
@@ -350,7 +399,8 @@ Q4 2026  ░░░░░░░░░░░░░░░░░░░░░░░�
 |:---|:---|
 | 🤖 AI-Driven Threat Intelligence | Using ML to predict and classify cyber threats in real-time |
 | 🧠 LLM Security | Prompt injection, jailbreaking & adversarial attacks on language models |
-| 🕳 Zero-Day Discovery via ML | Automating vulnerability identification with deep learning |
+| ⚛ Quantum Optimization | QAOA-based computation for complex security problems |
+| 🛰 GIS Intelligence | Crime route reconstruction & predictive mapping |
 | 🔏 Federated Learning for Privacy | Privacy-preserving security models without centralised data |
 | 👁 Adversarial Vision Attacks | Fooling computer vision security systems with adversarial inputs |
 
@@ -362,10 +412,56 @@ Q4 2026  ░░░░░░░░░░░░░░░░░░░░░░░�
 | 🕸 GNN for Intrusion Detection | Graph Neural Networks to detect network anomalies |
 | 🧩 Explainable AI in Security | Making AI security decisions transparent and auditable |
 | ⚡ Side-Channel Analysis | Hardware-level attack and defence research |
+| 🔐 AI Social Engineering | Detecting manipulation & phishing via NLP models |
 
 > 🎯 **Publications Target:** IEEE / ACM Conference on AI Security — 2026
 >
-> *"At the intersection of Artificial Intelligence and Cyber Security, I aim to build systems that don't just defend — they predict, adapt, and evolve against future threats."*
+> *"At the intersection of Artificial Intelligence, Quantum Computing and Cyber Security, I build systems that don't just defend — they predict, adapt, and evolve against future threats."*
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# 〔 🏆 ACHIEVEMENTS & TARGETS 〕
+
+```yaml
+Achievements:
+  ► TCS CodeVita Participant
+  ► Quantum Computing Research Developer
+  ► AI + Cyber Security Systems Builder
+  ► Full Stack Security Platform Developer
+  ► Computer Vision & GIS Intelligence Engineer
+
+2026 Targets:
+  ► Publish AI Security Research Paper (IEEE / ACM)
+  ► Build Production-Level AI Security SaaS
+  ► CEH Certification
+  ► Open Source Contributions to Top Security Repos
+  ► Participate in National Hackathons
+  ► Advanced Threat Intelligence Platform Launch
+```
+
+---
+
+# 〔 📊 GITHUB INTELLIGENCE DASHBOARD 〕
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=dsaisrih&theme=dark&hide_border=true&ring=0047ff&fire=4d94ff&currStreakLabel=4d94ff&sideLabels=4d94ff&dates=aaaaaa&background=050510&stroke=0047ff" width="70%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dsaisrih&show_icons=true&theme=radical&hide_border=true&bg_color=050510&icon_color=0047ff&title_color=4d94ff"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dsaisrih&bg_color=050510&color=4d94ff&line=0047ff&point=ffffff&area=true&area_color=00003d&hide_border=true&custom_title=D%20Sai%20Sri%20Harshit%20-%20Contribution%20Timeline" width="98%"/>
+</div>
+
+### 🐍 Contribution Grid Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/dsaisrih/dsaisrih/output/github-contribution-grid-snake-dark.svg"/>
+</div>
 
 ---
 
@@ -376,12 +472,13 @@ Q4 2026  ░░░░░░░░░░░░░░░░░░░░░░░�
 | Component | Spec | Purpose |
 |:---:|:---|:---|
 | 💻 **Machine** | HP Victus Gaming Laptop | Primary Dev & Testing Rig |
-| 🧠 **CPU** | AMD Ryzen 9 | Heavy ML Training & Compilation |
+| 🧠 **CPU** | AMD Ryzen 9 | Heavy ML & Quantum Simulation |
 | 🎮 **GPU** | NVIDIA RTX 4060 8GB VRAM | Deep Learning, CV Model Training |
 | 🧊 **RAM** | 16GB DDR5 | Multi-VM Pentesting Labs |
 | 💾 **Storage** | 1TB NVMe SSD | Fast Boot, Rapid I/O |
-| 🖥 **OS** | Windows 11 + Kali Linux (VMWare) + Linux (VMWare) | Dev + Security Research |
+| 🖥 **OS** | Windows 11 + Kali Linux (VMWare) | Dev + Security Research |
 | 🔧 **IDE** | VS Code + PyCharm + Neovim | Multi-Language Development |
+| 🌐 **Deploy** | Firebase + Vercel + Render | Cloud Production Hosting |
 | 🌐 **Browser** | Brave + Burp Suite Proxy | Secure Browsing + Web Pentesting |
 | 🔑 **VPN** | ProtonVPN | OpSec & Secure Tunneling |
 | 📡 **Virtualization** | VirtualBox + VMWare + Docker | Isolated Lab Environments |
@@ -402,8 +499,9 @@ Q4 2026  ░░░░░░░░░░░░░░░░░░░░░░░�
 ║   Security is not a product — it is a process.              ║
 ║   Intelligence is not data — it is pattern recognition.      ║
 ║   AI is not magic — it is mathematics at scale.              ║
+║   Quantum is not hype — it is the next frontier.             ║
 ║                                                               ║
-║   I build at the intersection of all three.                  ║
+║   I build at the intersection of all four.                   ║
 ║                                              — @dsaisrih      ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
@@ -416,14 +514,16 @@ Q4 2026  ░░░░░░░░░░░░░░░░░░░░░░░�
 Areas of Contribution:
   ► AI Security Tools & Libraries
   ► Python Automation Utilities
+  ► Quantum Computing Experiments
   ► Cyber Security Learning Resources
   ► Computer Vision Projects
 
 Currently Looking to Contribute to:
-  🔴 Sigma Rules — Detection Engineering
-  🔴 TheHive / MISP — Threat Intelligence
-  🔴 OpenCV Community Projects
-  🔴 OWASP Testing Guide
+  🔵 Sigma Rules — Detection Engineering
+  🔵 TheHive / MISP — Threat Intelligence
+  🔵 OpenCV Community Projects
+  🔵 OWASP Testing Guide
+  🔵 Qiskit Community & IBM Quantum Network
 ```
 
 ---
@@ -433,19 +533,19 @@ Currently Looking to Contribute to:
 <div align="center">
 
 <a href="https://github.com/dsaisrih">
-  <img src="https://img.shields.io/badge/GitHub-dsaisrih-ff0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/GitHub-dsaisrih-0047ff?style=for-the-badge&logo=github&logoColor=white&labelColor=050510"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/dsaisrih">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-ff0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0047ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050510"/>
 </a>
 &nbsp;
 <a href="mailto:dsaisriharshit@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-dsaisriharshit-ff0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/Gmail-dsaisriharshit-0047ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050510"/>
 </a>
 &nbsp;
 <a href="https://x.com/dsaisrih">
-  <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-ff0000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-0047ff?style=for-the-badge&logo=x&logoColor=white&labelColor=050510"/>
 </a>
 
 </div>
@@ -464,11 +564,10 @@ Currently Looking to Contribute to:
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
-  🕷🕷🕷🕷
 
+</div>
 
 <!-- FOOTER -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,40:8b0000,70:1a0000,100:000000&height=170&section=footer&text=SYSTEM%20SHUTDOWN&fontSize=22&fontColor=ff4d4d&animation=fadeIn&fontAlignY=55&desc=%22WITH%20GREAT%20POWER%20COMES%20GREAT%20RESPONSIBILITY%22&descAlignY=75&descSize=16"/>
-
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047ff,40:00008b,70:00001a,100:000000&height=170&section=footer&text=SYSTEM%20ONLINE&fontSize=25&fontColor=aad4ff&animation=fadeIn&fontAlignY=55&desc=%22WITH%20GREAT%20POWER%20COMES%20GREAT%20RESPONSIBILITY%22&descAlignY=75&descSize=16"/>
+</div>
