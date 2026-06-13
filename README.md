@@ -441,21 +441,35 @@ Achievements:
   ► Advanced Threat Intelligence Platform Launch
 ```
 
----
+---    
 
 # 〔 📊 GITHUB INTELLIGENCE DASHBOARD 〕
-
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=dsaisrih&theme=dark&hide_border=true&ring=0047ff&fire=4d94ff&currStreakLabel=4d94ff&sideLabels=4d94ff&dates=aaaaaa&background=050510&stroke=0047ff" width="70%"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dsaisrih&show_icons=true&theme=radical&hide_border=true&bg_color=050510&icon_color=0047ff&title_color=4d94ff"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=dsaisrih&theme=dark&hide_border=true&ring=0047ff&fire=4d94ff&currStreakLabel=4d94ff&sideLabels=4d94ff&dates=aaaaaa&background=050510&stroke=0047ff"/>
+
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dsaisrih&show_icons=true&theme=radical&hide_border=true&bg_color=050510&icon_color=0047ff&title_color=4d94ff"/>
-</div>
+<br>
 
 <div align="center">
+
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsaisrih&layout=compact&theme=vision-friendly-dark&hide_border=true&card_width=500"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dsaisrih&bg_color=050510&color=4d94ff&line=0047ff&point=ffffff&area=true&area_color=00003d&hide_border=true&custom_title=D%20Sai%20Sri%20Harshit%20-%20Contribution%20Timeline" width="98%"/>
+
 </div>
+
+<br>
+
 
 ### 🐍 Contribution Grid Snake
 
