@@ -79,7 +79,26 @@
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+# 〔 📊 PROGRAMMING LANGUAGE DISTRIBUTION 〕
 
+```mermaid
+pie showData
+    title Programming Languages & Technologies
+    "Python" : 28
+    "JavaScript" : 15
+    "HTML" : 10
+    "CSS" : 8
+    "TypeScript" : 7
+    "SQL" : 7
+    "Java" : 6
+    "C" : 6
+    "C++" : 5
+    "Bash" : 3
+    "Go" : 2
+    "Rust" : 2
+    "Other" : 1
+```" : 3
+```
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
