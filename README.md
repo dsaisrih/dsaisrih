@@ -236,15 +236,18 @@ TypeScript               █████░░░░░░░ 55%
 | 🔢 | PROJECT | TECH STACK | DOMAIN | STATUS | IMPACT |
 |:---:|:---|:---|:---|:---:|:---|
 | 01 | **🛰 AI Crime Path Reconstructor** | React, FastAPI, OSRM, GIS | AI + Cyber Security | 🚧 Active | Real-time crime route mapping & prediction engine |
-| 02 | **⚛ Quantum Multi-Fault Classification** | Qiskit, React, AerSimulator | Quantum AI | ✅ Live | Noise-resilient quantum circuit fault detection |
-| 03 | **📈 Quantum Portfolio Optimizer** | Qiskit, FastAPI, React | Quantum Finance | 🧪 Research | QAOA-powered financial portfolio optimization |
-| 04 | **🔐 AI Social Engineering Detector** | NLP, FastAPI, React | Cyber Security | 🚧 Dev | AI-powered phishing & manipulation detection |
-| 05 | **🛡 Phishing URL Detector v2** | ML, FastAPI, Scikit-learn | Cyber Security | 🔄 v2.0 | 92% accuracy malicious URL classifier API |
-| 06 | **👁 Face Recognition System** | Python, OpenCV, dlib | AI Security | ✅ Complete | Real-time biometric auth with liveness detection |
-| 07 | **🖱 Virtual Mouse Controller** | Python, MediaPipe, cv2 | HCI / AI | ✅ Complete | Touchless gesture-controlled cursor system |
-| 08 | **🌌 Orbital Guardian Database** | PostgreSQL, SQL | Space Tech | ✅ Complete | Full mission database for space operations |
-| 09 | **🔍 OSINT Recon Framework** | Python, APIs | Cyber Security | 🧪 Dev | Automated open-source intelligence aggregator |
-| 10 | **🤖 AI Network Anomaly Monitor** | Python, ML, Sockets | Network Security | 🧪 Dev | Real-time ML-based traffic anomaly detection |
+| 02 | **🌌 Cosmo Lens — Project Zenith** | TypeScript, React, WebGL | Space / Web | ✅ Live | Immersive astral web visualization experience |
+| 03 | **📝 Marginalia** | JavaScript, Firebase, Firestore | Productivity | ✅ Live | Firebase-backed note-taking app with cross-device sync |
+| 04 | **🚀 Major Project — Loading Soon** | TBA | Undisclosed | 🔒 Coming Soon | Details under wraps — reveal coming soon |
+| 05 | **⚛ Quantum Multi-Fault Classification** | Qiskit, React, AerSimulator | Quantum AI | ✅ Live | Noise-resilient quantum circuit fault detection |
+| 06 | **📈 Quantum Portfolio Optimizer** | Qiskit, FastAPI, React | Quantum Finance | 🧪 Research | QAOA-powered financial portfolio optimization |
+| 07 | **🔐 AI Social Engineering Detector** | NLP, FastAPI, React | Cyber Security | 🚧 Dev | AI-powered phishing & manipulation detection |
+| 08 | **🛡 Phishing URL Detector v2** | ML, FastAPI, Scikit-learn | Cyber Security | 🔄 v2.0 | 92% accuracy malicious URL classifier API |
+| 09 | **👁 Face Recognition System** | Python, OpenCV, dlib | AI Security | ✅ Complete | Real-time biometric auth with liveness detection |
+| 10 | **🖱 Virtual Mouse Controller** | Python, MediaPipe, cv2 | HCI / AI | ✅ Complete | Touchless gesture-controlled cursor system |
+| 11 | **🌌 Orbital Guardian Database** | PostgreSQL, SQL | Space Tech | ✅ Complete | Full mission database for space operations |
+| 12 | **🔍 OSINT Recon Framework** | Python, APIs | Cyber Security | 🧪 Dev | Automated open-source intelligence aggregator |
+| 13 | **🤖 AI Network Anomaly Monitor** | Python, ML, Sockets | Network Security | 🧪 Dev | Real-time ML-based traffic anomaly detection |
 
 </div>
 
@@ -263,6 +266,19 @@ TypeScript               █████░░░░░░░ 55%
 ║  ├─ Evidence Mapping    █████████████░░░░░░░   70% 🔄           ║
 ║  ├─ AI Prediction       ████████████░░░░░░░░   60% 🚧           ║
 ║  └─ API Deployment      ███████░░░░░░░░░░░░░   40% 🚧           ║
+║                                                                  ║
+║  🌌 COSMO LENS — PROJECT ZENITH                                  ║
+║  ├─ WebGL Visualization ██████████████████░░   90% ✅           ║
+║  ├─ Frontend UI         ███████████████████░   95% ✅           ║
+║  └─ Deployment          ████████████████████  100% ✅           ║
+║                                                                  ║
+║  📝 MARGINALIA                                                   ║
+║  ├─ Core Editor         ████████████████████  100% ✅           ║
+║  ├─ Firebase Sync       █████████████████░░░   85% 🔄           ║
+║  └─ Deployment          ████████████████████  100% ✅           ║
+║                                                                  ║
+║  🚀 MAJOR PROJECT — LOADING SOON                                 ║
+║  └─ Status              ░░░░░░░░░░░░░░░░░░░░    ?? 🔒           ║
 ║                                                                  ║
 ║  ⚛ QUANTUM MULTI-FAULT CLASSIFICATION                            ║
 ║  ├─ Quantum Circuit     ████████████████████  100% ✅           ║
@@ -322,7 +338,9 @@ timeline
          : OSINT & Red Teaming Skills
          : AI Social Engineering Detector
          : Quantum Portfolio Optimizer
-    2026 : AI Security SaaS Launch
+    2026 : Cosmo Lens — Project Zenith
+         : Marginalia Notes App
+         : AI Security SaaS Launch
          : Security Certifications (CEH)
          : Research Paper Publication
          : Open Source Contributions
@@ -340,13 +358,16 @@ Q1 2026  ████████████████░░░░░░░�
   🔄 Phishing Detector v2.0 API Improving
   🔄 GitHub Profile Revamp
 
-Q2 2026  ████████░░░░░░░░░░░░░░░░  35% IN PROGRESS
+Q2 2026  ████████████░░░░░░░░░░░░  50% IN PROGRESS
+  ✅ Cosmo Lens — Project Zenith Deployed
+  ✅ Marginalia Notes App Deployed
   🚧 Launch AI Security SaaS MVP
   🚧 Achieve CEH Certification
   🚧 AI Social Engineering Detector — Beta
   🚧 Deploy Quantum Portfolio Optimizer
 
 Q3 2026  ░░░░░░░░░░░░░░░░░░░░░░░░  PLANNED
+  🔒 Reveal Major Project — Loading Soon
   📋 Submit Research Paper — AI Threat Intelligence
   📋 Open Source Contributions — Top AI Security Repos
   📋 OSINT Framework Public Release
