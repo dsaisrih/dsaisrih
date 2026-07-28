@@ -188,6 +188,7 @@ TypeScript               █████░░░░░░░ 55%
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,firebase,supabase&theme=dark"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ### 🤖 AI / ML / Quantum
@@ -225,6 +226,16 @@ TypeScript               █████░░░░░░░ 55%
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,vscode,aws&theme=dark"/>
 </p>
 
+### 🧠 AI Models I Work With
+
+<p align="left">
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white"/>
+</p>
+
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -238,12 +249,12 @@ TypeScript               █████░░░░░░░ 55%
 | 01 | **🛰 AI Crime Path Reconstructor** | React, FastAPI, OSRM, GIS | AI + Cyber Security | 🚧 Active | Real-time crime route mapping & prediction engine |
 | 02 | **🌌 Cosmo Lens — Project Zenith** | TypeScript, React, WebGL | Space / Web | ✅ Live | Immersive astral web visualization experience |
 | 03 | **📝 Marginalia** | JavaScript, Firebase, Firestore | Productivity | ✅ Live | Firebase-backed note-taking app with cross-device sync |
-| 04 | **🚀 Major Project — Loading Soon** | TBA | Undisclosed | 🔒 Coming Soon | Details under wraps — reveal coming soon |
+| 04 | **🚀 Major Project — Loading Soon** | TBA | Undisclosed | 🔄 On Topic | Details under wraps — reveal coming soon |
 | 05 | **⚛ Quantum Multi-Fault Classification** | Qiskit, React, AerSimulator | Quantum AI | ✅ Live | Noise-resilient quantum circuit fault detection |
 | 06 | **📈 Quantum Portfolio Optimizer** | Qiskit, FastAPI, React | Quantum Finance | 🧪 Research | QAOA-powered financial portfolio optimization |
 | 07 | **🔐 AI Social Engineering Detector** | NLP, FastAPI, React | Cyber Security | 🚧 Dev | AI-powered phishing & manipulation detection |
 | 08 | **🛡 Phishing URL Detector v2** | ML, FastAPI, Scikit-learn | Cyber Security | 🔄 v2.0 | 92% accuracy malicious URL classifier API |
-| 09 | **👁 Face Recognition System** | Python, OpenCV, dlib | AI Security | ✅ Complete | Real-time biometric auth with liveness detection |
+| 09 | **👁 Face Recognition System** | Python, OpenCV, dlib | AI Security | 🚧 WIP | Real-time biometric auth with liveness detection |
 | 10 | **🖱 Virtual Mouse Controller** | Python, MediaPipe, cv2 | HCI / AI | ✅ Complete | Touchless gesture-controlled cursor system |
 | 11 | **🌌 Orbital Guardian Database** | PostgreSQL, SQL | Space Tech | ✅ Complete | Full mission database for space operations |
 | 12 | **🔍 OSINT Recon Framework** | Python, APIs | Cyber Security | 🧪 Dev | Automated open-source intelligence aggregator |
@@ -278,7 +289,7 @@ TypeScript               █████░░░░░░░ 55%
 ║  └─ Deployment          ████████████████████  100% ✅           ║
 ║                                                                  ║
 ║  🚀 MAJOR PROJECT — LOADING SOON                                 ║
-║  └─ Status              ░░░░░░░░░░░░░░░░░░░░    ?? 🔒           ║
+║  └─ Status              ███░░░░░░░░░░░░░░░░░  On Topic 🔄       ║
 ║                                                                  ║
 ║  ⚛ QUANTUM MULTI-FAULT CLASSIFICATION                            ║
 ║  ├─ Quantum Circuit     ████████████████████  100% ✅           ║
@@ -304,6 +315,11 @@ TypeScript               █████░░░░░░░ 55%
 ║  ├─ FastAPI Backend     ██████████████████░░   90% 🔄           ║
 ║  ├─ Model Accuracy      ████████████████░░░░   80% 🔄           ║
 ║  └─ Web Dashboard       ██████████░░░░░░░░░░   50% 🚧           ║
+║                                                                  ║
+║  👁 FACE RECOGNITION SYSTEM                                      ║
+║  ├─ Detection Pipeline  ██████████████████░░   90% ✅           ║
+║  ├─ Liveness Detection  ████████████░░░░░░░░   60% 🚧           ║
+║  └─ Deployment          ██████░░░░░░░░░░░░░░   30% 🚧           ║
 ║                                                                  ║
 ║  🔍 OSINT RECON FRAMEWORK                                        ║
 ║  ├─ Core Engine         ██████████████░░░░░░   65% 🔄           ║
