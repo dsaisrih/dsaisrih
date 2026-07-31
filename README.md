@@ -586,7 +586,7 @@ Currently Looking to Contribute to:
   <img src="https://img.shields.io/badge/GitHub-dsaisrih-0047ff?style=for-the-badge&logo=github&logoColor=white&labelColor=050510"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/dsaisrih">
+<a href="https://www.linkedin.com/in/d-sai-sri-harshit-a166a0361/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0047ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050510"/>
 </a>
 &nbsp;
