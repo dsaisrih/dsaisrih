@@ -27,14 +27,11 @@
 <!-- ========================================================= -->
 
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=dsaisrih&label=PROFILE+VIEWS&color=0047ff&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/dsaisrih?style=for-the-badge&color=0047ff&labelColor=050510"/>
 <img src="https://img.shields.io/badge/STATUS-ONLINE%20🟢-0047ff?style=for-the-badge&logo=github&logoColor=white&labelColor=050510"/>
 <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS%20%26%20COLLABORATIONS-0047ff?style=for-the-badge&labelColor=050510"/>
-
 </div>
-
 ---
 
 # 〔 👨‍💻 ENGINEER PROFILE 〕
@@ -79,8 +76,6 @@
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 〔 🧠 CORE ENGINEERING DOMAINS 〕
