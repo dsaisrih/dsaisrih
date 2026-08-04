@@ -208,9 +208,7 @@ TypeScript               █████░░░░░░░ 55%
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 </p>
-
 ### 🗄 Databases
-
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase&theme=dark"/>
 </p>
@@ -220,7 +218,6 @@ TypeScript               █████░░░░░░░ 55%
 <p align="left">
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,vscode,aws&theme=dark"/>
 </p>
-
 ### 🧠 AI Models I Work With
 
 <p align="left">
