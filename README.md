@@ -32,7 +32,6 @@
 <img src="https://img.shields.io/badge/STATUS-ONLINE%20🟢-0047ff?style=for-the-badge&logo=github&logoColor=white&labelColor=050510"/>
 <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS%20%26%20COLLABORATIONS-0047ff?style=for-the-badge&labelColor=050510"/>
 </div>
----
 
 # 〔 👨‍💻 ENGINEER PROFILE 〕
 
