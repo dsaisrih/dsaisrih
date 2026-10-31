@@ -484,28 +484,19 @@ Achievements:
 <div align="center">
 
 <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsaisrih&layout=compact&theme=vision-friendly-dark&hide_border=true&card_width=500"/>
-
 </div>
-
 <br>
-
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dsaisrih&bg_color=050510&color=4d94ff&line=0047ff&point=ffffff&area=true&area_color=00003d&hide_border=true&custom_title=D%20Sai%20Sri%20Harshit%20-%20Contribution%20Timeline" width="98%"/>
-
 </div>
-
 <br>
-
 
 ### 🐍 Contribution Grid Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/dsaisrih/dsaisrih/output/github-contribution-grid-snake-dark.svg"/>
 </div>
-
 ---
-
 # 〔 💻 BATTLE STATION — DEV SETUP 〕
 
 <div align="center">
@@ -523,11 +514,8 @@ Achievements:
 | 🌐 **Browser** | Brave + Burp Suite Proxy | Secure Browsing + Web Pentesting |
 | 🔑 **VPN** | ProtonVPN | OpSec & Secure Tunneling |
 | 📡 **Virtualization** | VirtualBox + VMWare + Docker | Isolated Lab Environments |
-
 </div>
-
 ---
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 〔 🌐 SECURITY PHILOSOPHY 〕
@@ -546,7 +534,6 @@ Achievements:
 ║                                              — @dsaisrih      ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
-
 ---
 
 # 〔 🤝 OPEN SOURCE & COMMUNITY 〕
@@ -558,7 +545,6 @@ Areas of Contribution:
   ► Quantum Computing Experiments
   ► Cyber Security Learning Resources
   ► Computer Vision Projects
-
 Currently Looking to Contribute to:
   🔵 Sigma Rules — Detection Engineering
   🔵 TheHive / MISP — Threat Intelligence
@@ -566,9 +552,7 @@ Currently Looking to Contribute to:
   🔵 OWASP Testing Guide
   🔵 Qiskit Community & IBM Quantum Network
 ```
-
 ---
-
 # 〔 📡 CONNECT — ESTABLISH SECURE CHANNEL 〕
 
 <div align="center">
@@ -588,13 +572,9 @@ Currently Looking to Contribute to:
 <a href="https://x.com/dsaisrih">
   <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-0047ff?style=for-the-badge&logo=x&logoColor=white&labelColor=050510"/>
 </a>
-
 </div>
-
 <br>
-
 <div align="center">
-
 ```
 ╔════════════════════════════════════════════════════════════════╗
 ║                                                                ║
